@@ -1,0 +1,148 @@
+{
+    "0": {
+            "text_original": "（1）投标函；",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "null"
+                            ],
+                            "entity_name": "响应/投标/参选申请函",
+                            "entity_original": "投标函",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "1": {
+            "text_original": "（2）法定代表人（单位负责人）身份证明或授权委托书；",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "null"
+                            ],
+                            "entity_name": "法定代表身份证正、反面复印件",
+                            "entity_original": "法定代表人（单位负责人）身份证明",
+                            "entity_relation": "null"
+                    },
+                    "entity2": {
+                            "entity_description": [
+                                    "null"
+                            ],
+                            "entity_name": "法定代表人授权委托书",
+                            "entity_original": "授权委托书",
+                            "entity_relation": "或"
+                    }
+            }
+    },
+    "2": {
+            "text_original": "（3）联合体协议书（如有）；",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "如有"
+                            ],
+                            "entity_name": "案例合同复印件",
+                            "entity_original": "联合体协议书（如有）",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "3": {
+            "text_original": "（4）投标保证金（如有）；",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "如有"
+                            ],
+                            "entity_name": "投标保证金承诺函",
+                            "entity_original": "投标保证金（如有）",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "4": {
+            "text_original": "（5）商务和技术偏差表；",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "null"
+                            ],
+                            "entity_name": "商务条款偏离表",
+                            "entity_original": "商务偏差表",
+                            "entity_relation": "和"
+                    },
+                    "entity2": {
+                            "entity_description": [
+                                    "null"
+                            ],
+                            "entity_name": "商务条款偏离表",
+                            "entity_original": "技术偏差表",
+                            "entity_relation": "和"
+                    }
+            }
+    },
+    "5": {
+            "text_original": "（6）资格审查资料；",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "null"
+                            ],
+                            "entity_name": "法人税务师执业资格证",
+                            "entity_original": "资格审查资料",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "6": {
+            "text_original": "（7）咨询方案；",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "null"
+                            ],
+                            "entity_name": "实施方案",
+                            "entity_original": "咨询方案",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "7": {
+            "text_original": "（8）项目组配备方案；",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "null"
+                            ],
+                            "entity_name": "实施方案",
+                            "entity_original": "项目组配备方案",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "8": {
+            "text_original": "（9）服务承诺等其它文件资料；",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "null"
+                            ],
+                            "entity_name": "团队介绍",
+                            "entity_original": "服务承诺等其它文件资料",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "9": {
+            "text_original": "（10）投标报价表。",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "null"
+                            ],
+                            "entity_name": "报价一览表",
+                            "entity_original": "投标报价表",
+                            "entity_relation": "null"
+                    }
+            }
+    }
+}

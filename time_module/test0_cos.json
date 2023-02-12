@@ -1,0 +1,487 @@
+{
+    "entities": [
+        {
+            "eid": 0,
+            "entity_name": "社会保障金缴纳证明",
+            "entity_original": "社会保障资金",
+            "original_text": ">有依法缴纳税收和社会保障资金的良好记录；",
+            "entity_description": []
+        },
+        {
+            "eid": 1,
+            "entity_name": "社会保障金缴纳证明",
+            "entity_original": "社会保障资金",
+            "original_text": "（4）有依法缴纳税收和社会保障资金的良好记录；",
+            "entity_description": []
+        },
+        {
+            "eid": 2,
+            "entity_name": "无重大违法违纪声明",
+            "entity_original": "中没有重大违法记录；",
+            "original_text": "（5）参加此采购活动近3年内，在经营活动中没有重大违法记录；",
+            "entity_description": []
+        },
+        {
+            "eid": 3,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "授权书",
+            "original_text": "（3）联合体各方签订联合协议后，不得再以自己名义单独投标，也不得组成新的联合体或参加其他联合体在本项目中投标，否则各相关投标均无效；（4）联合体各方必须指定牵头人，授权其代表所有联合体成员负责投标和合同实施阶段的主办、协调工作，并应提交由所有联合体成员法定代表人或负责人签署的授权书；（5）联合体中若有同类资质不同等级的供应商按照联合体分工承担相同工作的，按照资质等级较低的供应商确定资质等级。",
+            "entity_description": []
+        },
+        {
+            "eid": 4,
+            "entity_name": "报价一览表",
+            "entity_original": "投标报价",
+            "original_text": "投标报价",
+            "entity_description": []
+        },
+        {
+            "eid": 5,
+            "entity_name": "其他材料",
+            "entity_original": "开标一览表",
+            "original_text": "10.3投标人投报多包的，应对每包分别报价并分别填报开标一览表。",
+            "entity_description": []
+        },
+        {
+            "eid": 6,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标有",
+            "original_text": "投标有效期和投标保证金",
+            "entity_description": []
+        },
+        {
+            "eid": 7,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "投标保证金",
+            "original_text": "投标有效期和投标保证金",
+            "entity_description": []
+        },
+        {
+            "eid": 8,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "投标保证金",
+            "original_text": "11.2投标保证金应作为投标文件的一部分，投标保证金有效期与投标有效期一致。投标人需同时提供退款银行详细信息（格式见附件2-2）。投标保证金的金额应满足投标资料表第9条规定的标准。",
+            "entity_description": []
+        },
+        {
+            "eid": 9,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "投标保证金",
+            "original_text": "11.2投标保证金应作为投标文件的一部分，投标保证金有效期与投标有效期一致。投标人需同时提供退款银行详细信息（格式见附件2-2）。投标保证金的金额应满足投标资料表第9条规定的标准。",
+            "entity_description": []
+        },
+        {
+            "eid": 10,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "保证金缴纳",
+            "original_text": "11.3投标保证金缴纳方式：满足投标资料表第9条规定的标准。",
+            "entity_description": []
+        },
+        {
+            "eid": 11,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "标保证金",
+            "original_text": "11.4投标保证金是为了保护招标代理机构和招标人免遭因投标人的不当行为而蒙受损失。下列任何情况发生时，投标保证金将不予退还给投标人：",
+            "entity_description": []
+        },
+        {
+            "eid": 12,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "保证金",
+            "original_text": "11.5招标代理机构将自中标通知书发出之日起5个工作日内退还未中标人的投标保证金，自采购合同签订之日起5个工作日内退还中标人的投标保证金。",
+            "entity_description": []
+        },
+        {
+            "eid": 13,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "保证金",
+            "original_text": "11.5招标代理机构将自中标通知书发出之日起5个工作日内退还未中标人的投标保证金，自采购合同签订之日起5个工作日内退还中标人的投标保证金。",
+            "entity_description": []
+        },
+        {
+            "eid": 14,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "投标保证金",
+            "original_text": "15.2开标时，招标代理机构将当众宣读投标人名称、修改或撤回投标的通知、投标价格、折扣、是否提交了投标保证金，以及开标一览表中所列的其他内容。开标时当众宣读的投标人开标一览表内容与投标文件中内容不一致的，以当众宣读的开标一览表为准。",
+            "entity_description": []
+        },
+        {
+            "eid": 15,
+            "entity_name": "其他材料",
+            "entity_original": "投标人开标一览表",
+            "original_text": "15.2开标时，招标代理机构将当众宣读投标人名称、修改或撤回投标的通知、投标价格、折扣、是否提交了投标保证金，以及开标一览表中所列的其他内容。开标时当众宣读的投标人开标一览表内容与投标文件中内容不一致的，以当众宣读的开标一览表为准。",
+            "entity_description": []
+        },
+        {
+            "eid": 16,
+            "entity_name": "报价一览表",
+            "entity_original": "一览表",
+            "original_text": "15.2开标时，招标代理机构将当众宣读投标人名称、修改或撤回投标的通知、投标价格、折扣、是否提交了投标保证金，以及开标一览表中所列的其他内容。开标时当众宣读的投标人开标一览表内容与投标文件中内容不一致的，以当众宣读的开标一览表为准。",
+            "entity_description": []
+        },
+        {
+            "eid": 17,
+            "entity_name": "其他材料",
+            "entity_original": "投标人开标一览表",
+            "original_text": "15.2开标时，招标代理机构将当众宣读投标人名称、修改或撤回投标的通知、投标价格、折扣、是否提交了投标保证金，以及开标一览表中所列的其他内容。开标时当众宣读的投标人开标一览表内容与投标文件中内容不一致的，以当众宣读的开标一览表为准。",
+            "entity_description": []
+        },
+        {
+            "eid": 18,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "保证金",
+            "original_text": "（2）投标人应交未交投标保证金或金额不足；",
+            "entity_description": []
+        },
+        {
+            "eid": 19,
+            "entity_name": "报价一览表",
+            "entity_original": "一览表",
+            "original_text": "17.4算术错误在一般情况下将按以下方法更正：如果投标总价与数量乘单价的积而得到的总价不一致，以单价为准修改总价；如果用文字表示的数值与用数字表示的数值不一致，以文字表示的值为准。如果评标委员会认为单价或文字描述存在明显的严重错误，将以总价或数字描述为准。如果投标人不接受对其错误的更正，其投标文件将被拒绝，并承担其投标保证金将不予退还的风险。如开标时，开标一览表中的价格和投标文件内的价格不一致，将以开标一览表的价格为准进行评标。",
+            "entity_description": []
+        },
+        {
+            "eid": 20,
+            "entity_name": "其他材料",
+            "entity_original": "开标一览表",
+            "original_text": "17.4算术错误在一般情况下将按以下方法更正：如果投标总价与数量乘单价的积而得到的总价不一致，以单价为准修改总价；如果用文字表示的数值与用数字表示的数值不一致，以文字表示的值为准。如果评标委员会认为单价或文字描述存在明显的严重错误，将以总价或数字描述为准。如果投标人不接受对其错误的更正，其投标文件将被拒绝，并承担其投标保证金将不予退还的风险。如开标时，开标一览表中的价格和投标文件内的价格不一致，将以开标一览表的价格为准进行评标。",
+            "entity_description": []
+        },
+        {
+            "eid": 21,
+            "entity_name": "报价一览表",
+            "entity_original": "标报价",
+            "original_text": "投标报价相同的，按照技术部分得分由高到低的顺序确定中标人；技术部分得分仍相同的，由评标委员会现场以抽签方式确定中标人。",
+            "entity_description": []
+        },
+        {
+            "eid": 22,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "保证金",
+            "original_text": "20.3排名第一的中标候选人放弃中标、因不可抗力不能履行合同、不按照招标文件要求提交履约保证金，或者被查实存在影响中标结果的违法行为等情形，不符合中标条件的，招标人可以按照评标委员会提出的中标候选人名单排序依次确定其他中标候选人为中标人，也可以重新招标。",
+            "entity_description": []
+        },
+        {
+            "eid": 23,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "保证金",
+            "original_text": "23.4中标人应当自合同签订之日起3个工作日内，将合同关键页副本报招标代理机构备案，以便退还投标保证金。",
+            "entity_description": []
+        },
+        {
+            "eid": 24,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "保证金",
+            "original_text": "25.1招标人视情况确定是否要求中标人向招标人提供履约保证金，详见投标资料表第14条。",
+            "entity_description": []
+        },
+        {
+            "eid": 25,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "中标人招标人保证金",
+            "original_text": "25.2如果中标人应交而未交履约保证金的，招标代理机构和招标人将有权取消其中标资格，并不退还其投标保证金。招标人可以按照评标报告推荐的中标候选人名单排序，确定下一候选人为中标人，也可以重新开展采购活动。",
+            "entity_description": []
+        },
+        {
+            "eid": 26,
+            "entity_name": "项目时间计划表",
+            "entity_original": "实施计划",
+            "original_text": "根据监管办法要求，结合政策性银行定位，参照《商业银行资本管理办法（试行）》中关于银行内部资本充足评估程序有关规定，咨询机构将制定针对我行现状的工作实施计划及分阶段细化实施方案，实施完整年度ICAAP各项工作，形成ICAAP报告，并提出将风险及资本识别评估结果应用于我行管理提升的可行性方案。重点完成下述工作：",
+            "entity_description": []
+        },
+        {
+            "eid": 27,
+            "entity_name": "实施方案",
+            "entity_original": "实施方案",
+            "original_text": "根据监管办法要求，结合政策性银行定位，参照《商业银行资本管理办法（试行）》中关于银行内部资本充足评估程序有关规定，咨询机构将制定针对我行现状的工作实施计划及分阶段细化实施方案，实施完整年度ICAAP各项工作，形成ICAAP报告，并提出将风险及资本识别评估结果应用于我行管理提升的可行性方案。重点完成下述工作：",
+            "entity_description": []
+        },
+        {
+            "eid": 28,
+            "entity_name": "项目时间计划表",
+            "entity_original": "项目实施计划",
+            "original_text": "（2）项目实施计划。基于差距分析结果，制定适用于我行的项目实施计划及方案。",
+            "entity_description": []
+        },
+        {
+            "eid": 29,
+            "entity_name": "项目时间计划表",
+            "entity_original": "项目实施计划",
+            "original_text": "（2）项目实施计划。基于差距分析结果，制定适用于我行的项目实施计划及方案。",
+            "entity_description": []
+        },
+        {
+            "eid": 30,
+            "entity_name": "项目时间计划表",
+            "entity_original": "项目安排",
+            "original_text": "五、项目安排",
+            "entity_description": []
+        },
+        {
+            "eid": 31,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标书",
+            "original_text": "（1）投标书中的项目合伙人（或相应级别）、总监（或相应级别）、项目经理、项目高级顾问、项目顾问与实际提供服务的人员必须一致，且应满足项目需要，如果人员不能胜任，招标方有权要求投标方更换人员。",
+            "entity_description": []
+        },
+        {
+            "eid": 32,
+            "entity_name": "售后服务",
+            "entity_original": "服务保障措施",
+            "original_text": "8.投标方应提出在项目超期、质量缺陷严重情况下应承担的责任及相应的服务保障措施。",
+            "entity_description": []
+        },
+        {
+            "eid": 33,
+            "entity_name": "保密承诺函",
+            "entity_original": "保密协议",
+            "original_text": "“保密信息”系指本合同附件《保密协议》所列之定义。",
+            "entity_description": []
+        },
+        {
+            "eid": 34,
+            "entity_name": "基本账户开户许可证",
+            "entity_original": "开户银行",
+            "original_text": "开户银行：",
+            "entity_description": []
+        },
+        {
+            "eid": 35,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标函",
+            "original_text": "附件1投标函",
+            "entity_description": []
+        },
+        {
+            "eid": 36,
+            "entity_name": "其他材料",
+            "entity_original": "开标一览表",
+            "original_text": "1.开标一览表；",
+            "entity_description": []
+        },
+        {
+            "eid": 37,
+            "entity_name": "报价一览表",
+            "entity_original": "投标分项报价表",
+            "original_text": "2.投标分项报价表；",
+            "entity_description": []
+        },
+        {
+            "eid": 38,
+            "entity_name": "商务条款偏离表",
+            "entity_original": "务规格偏离表",
+            "original_text": "3.服务规格偏离表；",
+            "entity_description": []
+        },
+        {
+            "eid": 39,
+            "entity_name": "商务条款偏离表",
+            "entity_original": "商务条款偏离表",
+            "original_text": "4.商务条款偏离表；",
+            "entity_description": []
+        },
+        {
+            "eid": 40,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "法定代表人授权书",
+            "original_text": "5.法定代表人授权书；",
+            "entity_description": []
+        },
+        {
+            "eid": 41,
+            "entity_name": "承诺书",
+            "entity_original": "承诺函",
+            "original_text": "6.招标服务费承诺函；",
+            "entity_description": []
+        },
+        {
+            "eid": 42,
+            "entity_name": "案例合同列表",
+            "entity_original": "投标人情况表",
+            "original_text": "8.投标人情况表；",
+            "entity_description": []
+        },
+        {
+            "eid": 43,
+            "entity_name": "其他材料",
+            "entity_original": "开标一览表",
+            "original_text": "附件2-1开标一览表",
+            "entity_description": []
+        },
+        {
+            "eid": 44,
+            "entity_name": "报价一览表",
+            "entity_original": "分项报价表",
+            "original_text": "（2）本表中的含税投标总价金额必须与分项报价表中的总价金额一致。",
+            "entity_description": []
+        },
+        {
+            "eid": 45,
+            "entity_name": "报价一览表",
+            "entity_original": "投标分项报价表",
+            "original_text": "附件3投标分项报价表",
+            "entity_description": []
+        },
+        {
+            "eid": 46,
+            "entity_name": "商务条款偏离表",
+            "entity_original": "服务规格偏离表",
+            "original_text": "附件4服务规格偏离表",
+            "entity_description": []
+        },
+        {
+            "eid": 47,
+            "entity_name": "商务条款偏离表",
+            "entity_original": "商务条款偏离表",
+            "original_text": "附件5商务条款偏离表",
+            "entity_description": []
+        },
+        {
+            "eid": 48,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "法定代表人授权书",
+            "original_text": "附件6法定代表人授权书",
+            "entity_description": []
+        },
+        {
+            "eid": 49,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "授权书",
+            "original_text": "本授权书于年月日签字生效，有效期至，特此声明。",
+            "entity_description": []
+        },
+        {
+            "eid": 50,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "授权书",
+            "original_text": "2、本授权书的有效期同投标有效期。",
+            "entity_description": []
+        },
+        {
+            "eid": 51,
+            "entity_name": "承诺书",
+            "entity_original": "承诺函",
+            "original_text": "附件7招标服务费承诺函",
+            "entity_description": []
+        },
+        {
+            "eid": 52,
+            "entity_name": "基本账户开户许可证",
+            "entity_original": "开户银",
+            "original_text": "开户银行：中国工商银行北京海淀支行营业部",
+            "entity_description": []
+        },
+        {
+            "eid": 53,
+            "entity_name": "承诺书",
+            "entity_original": "承诺日",
+            "original_text": "承诺日期：",
+            "entity_description": []
+        },
+        {
+            "eid": 54,
+            "entity_name": "案例合同列表",
+            "entity_original": "投标人情况表",
+            "original_text": "附件8投标人情况表",
+            "entity_description": []
+        },
+        {
+            "eid": 55,
+            "entity_name": "审计报告",
+            "entity_original": "财务报表",
+            "original_text": "注：本表数据须与投标人提供的财务报表相符（如投标人具有财务审计报告，则财务报表须经审计）。",
+            "entity_description": []
+        },
+        {
+            "eid": 56,
+            "entity_name": "审计报告",
+            "entity_original": "财务审计报告",
+            "original_text": "注：本表数据须与投标人提供的财务报表相符（如投标人具有财务审计报告，则财务报表须经审计）。",
+            "entity_description": []
+        },
+        {
+            "eid": 57,
+            "entity_name": "审计报告",
+            "entity_original": "财务报表",
+            "original_text": "注：本表数据须与投标人提供的财务报表相符（如投标人具有财务审计报告，则财务报表须经审计）。",
+            "entity_description": []
+        },
+        {
+            "eid": 58,
+            "entity_name": "项目成员履历表",
+            "entity_original": "实施人员表",
+            "original_text": "附件8-1拟派实施人员表",
+            "entity_description": []
+        },
+        {
+            "eid": 59,
+            "entity_name": "项目成员资格证书",
+            "entity_original": "员的资质证书",
+            "original_text": "注：1、上述项目组人员须按照下表“拟派人员资历表”单独列表详细说明并提供人员的资质证书复印件和业绩证明材料。",
+            "entity_description": [
+                "复印件"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "type": 2,
+            "peers": [
+                6,
+                7
+            ]
+        },
+        {
+            "type": 2,
+            "peers": [
+                8,
+                9
+            ]
+        },
+        {
+            "type": 2,
+            "peers": [
+                12,
+                13
+            ]
+        },
+        {
+            "type": 2,
+            "peers": [
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "type": 2,
+            "peers": [
+                19,
+                20
+            ]
+        },
+        {
+            "type": 2,
+            "peers": [
+                26,
+                27
+            ]
+        },
+        {
+            "type": 2,
+            "peers": [
+                28,
+                29
+            ]
+        },
+        {
+            "type": 2,
+            "peers": [
+                55,
+                56,
+                57
+            ]
+        }
+    ]
+}

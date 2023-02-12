@@ -1,0 +1,886 @@
+{
+    "entities": [
+        {
+            "eid": 0,
+            "entity_name": "案例合同复印件",
+            "entity_original": "合同",
+            "original_text": "六、授予合同.",
+            "entity_description": []
+        },
+        {
+            "eid": 1,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标书",
+            "original_text": "附件1投标书.",
+            "entity_description": []
+        },
+        {
+            "eid": 2,
+            "entity_name": "其他材料",
+            "entity_original": "开标一览表",
+            "original_text": "附件2开标一览表",
+            "entity_description": []
+        },
+        {
+            "eid": 3,
+            "entity_name": "报价一览表",
+            "entity_original": "投标报价明细表",
+            "original_text": "附件3投标报价明细表.",
+            "entity_description": []
+        },
+        {
+            "eid": 4,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "授权书",
+            "original_text": "附件4法人代表授权书或执行事务合伙人授权书..",
+            "entity_description": [
+                "法人代表"
+            ]
+        },
+        {
+            "eid": 5,
+            "entity_name": "商务条款偏离表",
+            "entity_original": "商务条款偏离表",
+            "original_text": "附件6商务条款偏离表",
+            "entity_description": []
+        },
+        {
+            "eid": 6,
+            "entity_name": "商务条款偏离表",
+            "entity_original": "术响应偏离表",
+            "original_text": "附件7技术响应偏离表.",
+            "entity_description": []
+        },
+        {
+            "eid": 7,
+            "entity_name": "供应商基本情况表",
+            "entity_original": "基本情况信息表",
+            "original_text": "附件9投标人基本情况信息表",
+            "entity_description": [
+                "投标人"
+            ]
+        },
+        {
+            "eid": 8,
+            "entity_name": "项目成员履历表",
+            "entity_original": "主要人员简历表",
+            "original_text": "附件11主要人员简历表",
+            "entity_description": []
+        },
+        {
+            "eid": 9,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "术响应",
+            "original_text": "附件12技术响应",
+            "entity_description": []
+        },
+        {
+            "eid": 10,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标邀请书",
+            "original_text": "招标公告（投标邀请书）",
+            "entity_description": []
+        },
+        {
+            "eid": 11,
+            "entity_name": "项目背景",
+            "entity_original": "项目",
+            "original_text": "计划编制外部专业服务项目",
+            "entity_description": []
+        },
+        {
+            "eid": 12,
+            "entity_name": "项目背景",
+            "entity_original": "项目",
+            "original_text": "4.招标范围及实施要求：采购恢复和处置计划编制外部专业服务项目。",
+            "entity_description": []
+        },
+        {
+            "eid": 13,
+            "entity_name": "其他材料",
+            "entity_original": "营业执照",
+            "original_text": "（2）购买文件时请携带以下资料：营业执照复印件、法定代表人/执行事务合伙人授权书原件、被授权人身份证复印件（以上均需加盖单位公章）。",
+            "entity_description": [
+                "复印件",
+                "执"
+            ]
+        },
+        {
+            "eid": 14,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "授权书",
+            "original_text": "（2）购买文件时请携带以下资料：营业执照复印件、法定代表人/执行事务合伙人授权书原件、被授权人身份证复印件（以上均需加盖单位公章）。",
+            "entity_description": [
+                "原件",
+                "合伙人"
+            ]
+        },
+        {
+            "eid": 15,
+            "entity_name": "法定代表身份证正、反面复印件",
+            "entity_original": "身份证",
+            "original_text": "（2）购买文件时请携带以下资料：营业执照复印件、法定代表人/执行事务合伙人授权书原件、被授权人身份证复印件（以上均需加盖单位公章）。",
+            "entity_description": [
+                "复印件",
+                "授权人"
+            ]
+        },
+        {
+            "eid": 16,
+            "entity_name": "其他材料",
+            "entity_original": "营业执照",
+            "original_text": "如需开具增值税专用发票，须提供付款单位的盖章确认的开票信息、营业执照复印件、税务登记证复印件（或是三证合一的加载统一社会信用代码的营业执照复印件）、开户行许可证复印件及付款单位的一般纳税人资格证明文件复印件。",
+            "entity_description": [
+                "复印件"
+            ]
+        },
+        {
+            "eid": 17,
+            "entity_name": "其他材料",
+            "entity_original": "税务登记证",
+            "original_text": "如需开具增值税专用发票，须提供付款单位的盖章确认的开票信息、营业执照复印件、税务登记证复印件（或是三证合一的加载统一社会信用代码的营业执照复印件）、开户行许可证复印件及付款单位的一般纳税人资格证明文件复印件。",
+            "entity_description": [
+                "复印件"
+            ]
+        },
+        {
+            "eid": 18,
+            "entity_name": "其他材料",
+            "entity_original": "营业执照",
+            "original_text": "如需开具增值税专用发票，须提供付款单位的盖章确认的开票信息、营业执照复印件、税务登记证复印件（或是三证合一的加载统一社会信用代码的营业执照复印件）、开户行许可证复印件及付款单位的一般纳税人资格证明文件复印件。",
+            "entity_description": []
+        },
+        {
+            "eid": 19,
+            "entity_name": "基本账户开户许可证",
+            "entity_original": "行许可证",
+            "original_text": "如需开具增值税专用发票，须提供付款单位的盖章确认的开票信息、营业执照复印件、税务登记证复印件（或是三证合一的加载统一社会信用代码的营业执照复印件）、开户行许可证复印件及付款单位的一般纳税人资格证明文件复印件。",
+            "entity_description": [
+                "开户"
+            ]
+        },
+        {
+            "eid": 20,
+            "entity_name": "项目成员履历表",
+            "entity_original": "证书",
+            "original_text": "3.4投标人的资质证书中单位名称须和投标人名称相同；",
+            "entity_description": [
+                "投标人"
+            ]
+        },
+        {
+            "eid": 21,
+            "entity_name": "实施方案",
+            "entity_original": "实施",
+            "original_text": "3.5投标人财务状况良好，能够满足项目实施需要。",
+            "entity_description": []
+        },
+        {
+            "eid": 22,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标书",
+            "original_text": "（1）投标书；",
+            "entity_description": []
+        },
+        {
+            "eid": 23,
+            "entity_name": "其他材料",
+            "entity_original": "开标一览表",
+            "original_text": "（2）开标一览表；",
+            "entity_description": []
+        },
+        {
+            "eid": 24,
+            "entity_name": "报价一览表",
+            "entity_original": "投标报价明细表",
+            "original_text": "（3）投标报价明细表",
+            "entity_description": []
+        },
+        {
+            "eid": 25,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "授权书",
+            "original_text": "（4）法人代表授权书/执行事务合伙人授权书；",
+            "entity_description": [
+                "法人代表"
+            ]
+        },
+        {
+            "eid": 26,
+            "entity_name": "商务条款偏离表",
+            "entity_original": "商务条件偏离表",
+            "original_text": "（6）商务条件偏离表；",
+            "entity_description": []
+        },
+        {
+            "eid": 27,
+            "entity_name": "商务条款偏离表",
+            "entity_original": "术响应偏离表",
+            "original_text": "（7）技术响应偏离表；",
+            "entity_description": []
+        },
+        {
+            "eid": 28,
+            "entity_name": "供应商基本情况表",
+            "entity_original": "基本情况信息表",
+            "original_text": "（9）投标人基本情况信息表；",
+            "entity_description": [
+                "投标人"
+            ]
+        },
+        {
+            "eid": 29,
+            "entity_name": "项目成员履历表",
+            "entity_original": "主要人员简历表",
+            "original_text": "（11）参与本项目的主要人员简历表；",
+            "entity_description": []
+        },
+        {
+            "eid": 30,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "术响应；",
+            "original_text": "（12）技术响应；",
+            "entity_description": []
+        },
+        {
+            "eid": 31,
+            "entity_name": "报价一览表",
+            "entity_original": "投标报价",
+            "original_text": "12.投标报价",
+            "entity_description": []
+        },
+        {
+            "eid": 32,
+            "entity_name": "报价一览表",
+            "entity_original": "标报价",
+            "original_text": "12.1投标报价应是完成本项目所需的全部费用；",
+            "entity_description": []
+        },
+        {
+            "eid": 33,
+            "entity_name": "报价一览表",
+            "entity_original": "投标报价均",
+            "original_text": "12.3投标报价均系指含税价。",
+            "entity_description": []
+        },
+        {
+            "eid": 34,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标书",
+            "original_text": "13.1投标书、投标价格表中的报价一律用人民币填报。招标方不接受任何非人民币币种的投标报价。",
+            "entity_description": []
+        },
+        {
+            "eid": 35,
+            "entity_name": "报价一览表",
+            "entity_original": "价格表",
+            "original_text": "13.1投标书、投标价格表中的报价一律用人民币填报。招标方不接受任何非人民币币种的投标报价。",
+            "entity_description": []
+        },
+        {
+            "eid": 36,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "投标保证金",
+            "original_text": "16.投标保证金",
+            "entity_description": []
+        },
+        {
+            "eid": 37,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "投标保证金",
+            "original_text": "16.1投标保证金为投标文件的必须要件；",
+            "entity_description": []
+        },
+        {
+            "eid": 38,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "投标保证金",
+            "original_text": "16.2投标人应随投标文件一并向招标代理机构提交一笔本须知前附表规定金额的投标保证金；",
+            "entity_description": [
+                "投标人",
+                "招标代理"
+            ]
+        },
+        {
+            "eid": 39,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "标保证金",
+            "original_text": "16.3投标保证金用于保护招标方免受因投标人行为而蒙受的损失；",
+            "entity_description": [
+                "投标人",
+                "招标方"
+            ]
+        },
+        {
+            "eid": 40,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "投标保证金币",
+            "original_text": "16.4投标保证金币种仅限于人民币。投标保证金形式：电汇。",
+            "entity_description": []
+        },
+        {
+            "eid": 41,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "投标保证金",
+            "original_text": "16.4投标保证金币种仅限于人民币。投标保证金形式：电汇。",
+            "entity_description": []
+        },
+        {
+            "eid": 42,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "投标保证金",
+            "original_text": "16.5投标保证金有效期应与投标有效期保持一致；",
+            "entity_description": []
+        },
+        {
+            "eid": 43,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标有",
+            "original_text": "16.5投标保证金有效期应与投标有效期保持一致；",
+            "entity_description": []
+        },
+        {
+            "eid": 44,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "投标保证金",
+            "original_text": "16.6未中标的投标人的投标保证金及银行同期存款利息（如有），将在招标人与中标人签订合同后5日内予以退还；",
+            "entity_description": [
+                "投标人"
+            ]
+        },
+        {
+            "eid": 45,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "保证金",
+            "original_text": "16.7中标人的投标保证金及银行同期存款利息（如有），在中标人有效地履行了本投标人须知第33、34条之规定后，予以退还；",
+            "entity_description": [
+                "中标人",
+                "标人",
+                "人"
+            ]
+        },
+        {
+            "eid": 46,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "保证金",
+            "original_text": "16.8发生以下情况投标保证金将不予退还：",
+            "entity_description": []
+        },
+        {
+            "eid": 47,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标",
+            "original_text": "17.投标有效期",
+            "entity_description": []
+        },
+        {
+            "eid": 48,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标有",
+            "original_text": "17.1投标有效期为提交投标文件的截止之日起至本须知前附表规定的日历天，在此期间内，所有投标文件均保持有效。投标文件的有效期比本须知规定的投标有效期短的，将被视为非响应投标，招标方有权拒绝；",
+            "entity_description": [
+                "招标方"
+            ]
+        },
+        {
+            "eid": 49,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标书",
+            "original_text": "19.1为方便开标唱标，投标人应将投标书和开标一览表正本、投标保证金单独密封提交，并在信封上标明“开标一览表”、“投标保证金”字样。投标人应将投标文件的正本和所有副本分别密封，并在封套上清楚标明“正本”或“副本”；投标文件的电子文档单独封装；",
+            "entity_description": []
+        },
+        {
+            "eid": 50,
+            "entity_name": "报价一览表",
+            "entity_original": "一览表",
+            "original_text": "19.1为方便开标唱标，投标人应将投标书和开标一览表正本、投标保证金单独密封提交，并在信封上标明“开标一览表”、“投标保证金”字样。投标人应将投标文件的正本和所有副本分别密封，并在封套上清楚标明“正本”或“副本”；投标文件的电子文档单独封装；",
+            "entity_description": []
+        },
+        {
+            "eid": 51,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "投标保证金",
+            "original_text": "19.1为方便开标唱标，投标人应将投标书和开标一览表正本、投标保证金单独密封提交，并在信封上标明“开标一览表”、“投标保证金”字样。投标人应将投标文件的正本和所有副本分别密封，并在封套上清楚标明“正本”或“副本”；投标文件的电子文档单独封装；",
+            "entity_description": []
+        },
+        {
+            "eid": 52,
+            "entity_name": "报价一览表",
+            "entity_original": "一览表",
+            "original_text": "19.1为方便开标唱标，投标人应将投标书和开标一览表正本、投标保证金单独密封提交，并在信封上标明“开标一览表”、“投标保证金”字样。投标人应将投标文件的正本和所有副本分别密封，并在封套上清楚标明“正本”或“副本”；投标文件的电子文档单独封装；",
+            "entity_description": []
+        },
+        {
+            "eid": 53,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "投标保证金字",
+            "original_text": "19.1为方便开标唱标，投标人应将投标书和开标一览表正本、投标保证金单独密封提交，并在信封上标明“开标一览表”、“投标保证金”字样。投标人应将投标文件的正本和所有副本分别密封，并在封套上清楚标明“正本”或“副本”；投标文件的电子文档单独封装；",
+            "entity_description": []
+        },
+        {
+            "eid": 54,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标",
+            "original_text": "21.迟交的投标文件",
+            "entity_description": []
+        },
+        {
+            "eid": 55,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "保证金",
+            "original_text": "22.4投标人不得在提交投标文件截止之日起至投标文件有效期期满前撤销其投标文件。否则其投标保证金将按16.8款的规定不予退还。",
+            "entity_description": [
+                "投标人"
+            ]
+        },
+        {
+            "eid": 56,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标邀请书",
+            "original_text": "23.1招标代理机构将按照招标公告（投标邀请书）中规定的时间和地点举行开标会议；",
+            "entity_description": []
+        },
+        {
+            "eid": 57,
+            "entity_name": "报价一览表",
+            "entity_original": "投标报价",
+            "original_text": "23.3开标仪式由招标代理机构组织并主持。由监督人员或投标人代表将当众查验投标文件密封情况，确认无误后交由工作人员拆封唱标，宣读投标人名称、投标报价、投标保证金提交情况，以及招标代理机构认为合适的其它内容并加以记录；",
+            "entity_description": []
+        },
+        {
+            "eid": 58,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "投标保证金",
+            "original_text": "23.3开标仪式由招标代理机构组织并主持。由监督人员或投标人代表将当众查验投标文件密封情况，确认无误后交由工作人员拆封唱标，宣读投标人名称、投标报价、投标保证金提交情况，以及招标代理机构认为合适的其它内容并加以记录；",
+            "entity_description": []
+        },
+        {
+            "eid": 59,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标",
+            "original_text": "25.3评标委员会决定投标文件的响应性只根据投标文件本身的内容，而不寻求外部的证据；",
+            "entity_description": [
+                "委员会"
+            ]
+        },
+        {
+            "eid": 60,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "投标保证金",
+            "original_text": "（3）未提交投标保证金的或保证金金额不足的；",
+            "entity_description": []
+        },
+        {
+            "eid": 61,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "保证金",
+            "original_text": "（3）未提交投标保证金的或保证金金额不足的；",
+            "entity_description": []
+        },
+        {
+            "eid": 62,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标",
+            "original_text": "（4）投标有效期不足的；",
+            "entity_description": []
+        },
+        {
+            "eid": 63,
+            "entity_name": "保密承诺函",
+            "entity_original": "保密",
+            "original_text": "29.保密",
+            "entity_description": []
+        },
+        {
+            "eid": 64,
+            "entity_name": "报价一览表",
+            "entity_original": "标报价",
+            "original_text": "30.2最低投标报价不是被授予合同的唯一条件；",
+            "entity_description": []
+        },
+        {
+            "eid": 65,
+            "entity_name": "实施方案",
+            "entity_original": "实施",
+            "original_text": "1.4负责参考《银行保险机构恢复和处置计划实施暂行办法》中附件1《恢复计划实例（商业银行版）》要求，结合甲方业务实际情况，协助甲方编制集团层面恢复计划及相关重要支持性文件。",
+            "entity_description": []
+        },
+        {
+            "eid": 66,
+            "entity_name": "实施方案",
+            "entity_original": "实施",
+            "original_text": "1.5负责参考《银行保险机构恢复和处置计划实施暂行办法》中附件3《处置计划建议实例（商业银行版）》要求，结合甲方业务实际情况，编制集团层面处置计划及其相关报告附件。",
+            "entity_description": []
+        },
+        {
+            "eid": 67,
+            "entity_name": "实施方案",
+            "entity_original": "施方案",
+            "original_text": "1.5.5负责制定处置计划的实施方案，包括处置策略、处置时间表、对关键运营连续性的影响、实施责任、与境外处置计划的关系，以及处置计划实施的资金来源、实施处置计划的影响等。",
+            "entity_description": []
+        },
+        {
+            "eid": 68,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标书",
+            "original_text": "附件1投标书",
+            "entity_description": []
+        },
+        {
+            "eid": 69,
+            "entity_name": "报价一览表",
+            "entity_original": "格表",
+            "original_text": "1.所附投标价格表中规定的应提交和交付的服务投标总价为人民币金额数，（并同时用文字和数字表示的投标总价）",
+            "entity_description": []
+        },
+        {
+            "eid": 70,
+            "entity_name": "报价一览表",
+            "entity_original": "投标总价",
+            "original_text": "1.所附投标价格表中规定的应提交和交付的服务投标总价为人民币金额数，（并同时用文字和数字表示的投标总价）",
+            "entity_description": []
+        },
+        {
+            "eid": 71,
+            "entity_name": "其他材料",
+            "entity_original": "开标一览表",
+            "original_text": "附件2开标一览表",
+            "entity_description": []
+        },
+        {
+            "eid": 72,
+            "entity_name": "项目背景",
+            "entity_original": "项目",
+            "original_text": "编制外部专业服务项目",
+            "entity_description": []
+        },
+        {
+            "eid": 73,
+            "entity_name": "报价一览表",
+            "entity_original": "投标报价明细表",
+            "original_text": "附件3投标报价明细表",
+            "entity_description": []
+        },
+        {
+            "eid": 74,
+            "entity_name": "项目背景",
+            "entity_original": "项目",
+            "original_text": "编制外部专业服务项目",
+            "entity_description": []
+        },
+        {
+            "eid": 75,
+            "entity_name": "项目背景",
+            "entity_original": "项目",
+            "original_text": "项目编号：",
+            "entity_description": []
+        },
+        {
+            "eid": 76,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "授权书",
+            "original_text": "附件4法人代表授权书或执行事务合伙人授权书（模板）",
+            "entity_description": [
+                "法人代表"
+            ]
+        },
+        {
+            "eid": 77,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "本授权委托书声",
+            "original_text": "本授权委托书声明：我（法人代表/执行事务合伙人姓名）.系注册于（投标人地址）_的_（投标人名称）二的法定代表人，现代表公司授权下面签字的.（被授权人的姓名、职务）.为我公司合法代理人，代表本公司参加中国东方资产管理股份有限公司关于风险管理部采购恢复和处置计划编制外部专业服务项目（招标编号为GXTC-C-21780057的投标活动。代理人在本次投标中所签署的一切文件和处理的一切有关事物，我公司均予承认。",
+            "entity_description": []
+        },
+        {
+            "eid": 78,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "授权书",
+            "original_text": "本授权书于二年月日签字生效，特此声明。",
+            "entity_description": [
+                "二年月日"
+            ]
+        },
+        {
+            "eid": 79,
+            "entity_name": "公司不同实体的声明",
+            "entity_original": "声明",
+            "original_text": "在此，本单位正式声明：",
+            "entity_description": []
+        },
+        {
+            "eid": 80,
+            "entity_name": "商务条款偏离表",
+            "entity_original": "商务条款偏离表",
+            "original_text": "附件6商务条款偏离表",
+            "entity_description": []
+        },
+        {
+            "eid": 81,
+            "entity_name": "商务条款偏离表",
+            "entity_original": "技术响应偏离表",
+            "original_text": "附件7技术响应偏离表",
+            "entity_description": []
+        },
+        {
+            "eid": 82,
+            "entity_name": "其他材料",
+            "entity_original": "企业营业执照",
+            "original_text": "1.附件8-1投标人企业营业执照副本复印件（加盖公章）；",
+            "entity_description": [
+                "副本复印件",
+                "加盖公章",
+                "投标人"
+            ]
+        },
+        {
+            "eid": 83,
+            "entity_name": "承诺书",
+            "entity_original": "承诺函",
+            "original_text": "3.附件8-3关于投标人中标后不分包、不转包，能够直接和招标人签署项目合同的承诺函（加盖公章）；",
+            "entity_description": [
+                "加盖公章",
+                "投标人",
+                "招标人"
+            ]
+        },
+        {
+            "eid": 84,
+            "entity_name": "承诺书",
+            "entity_original": "承诺函",
+            "original_text": "4.附件8-4最近3年内无因违法违规行为被财政部、省级财政部门给予没收违法所得、暂停执行部分业务等行政处罚，无重大信息安全泄露事件及其他重大安全事件等不良记录承诺函（加盖公章）；",
+            "entity_description": [
+                "加盖公章"
+            ]
+        },
+        {
+            "eid": 85,
+            "entity_name": "承诺书",
+            "entity_original": "承诺函",
+            "original_text": "5.附件8-5投标机构具备良好、规范的实施能力承诺函（加盖公章）；",
+            "entity_description": [
+                "加盖公章",
+                "投标机构"
+            ]
+        },
+        {
+            "eid": 86,
+            "entity_name": "公司简介",
+            "entity_original": "公司简介",
+            "original_text": "例如：投标人公司简介（可包括公司成立时间、注册资本、发展历程、组织机构、经营范围、经营状况、资质荣誉、行业地位、服务体系、质量控制标准等内容）。",
+            "entity_description": [
+                "投标人"
+            ]
+        },
+        {
+            "eid": 87,
+            "entity_name": "其他材料",
+            "entity_original": "企业营业执照",
+            "original_text": "附件8-1投标人企业营业执照副本复印件",
+            "entity_description": [
+                "副本复印件",
+                "投标人"
+            ]
+        },
+        {
+            "eid": 88,
+            "entity_name": "承诺书",
+            "entity_original": "承诺函",
+            "original_text": "附件8-4最近3年内无因违法违规行为被财政部、省级财政部门给予没收违法所得、暂停执行部分业务等行政处罚，无重大信息安全泄露事件及其他重大安全事件等不良记录承诺函（格式自拟，加盖公章）",
+            "entity_description": [
+                "3年内无",
+                "加盖公章"
+            ]
+        },
+        {
+            "eid": 89,
+            "entity_name": "承诺书",
+            "entity_original": "承诺函",
+            "original_text": "附件8-5投标机构具备良好、规范的实施能力承诺函（格式自拟，加盖公章）附件8-6投标人认为其它必要的内容",
+            "entity_description": [
+                "加盖公章",
+                "投标机构",
+                "投标人"
+            ]
+        },
+        {
+            "eid": 90,
+            "entity_name": "公司简介",
+            "entity_original": "公司简介",
+            "original_text": "例如：投标人公司简介（可包括公司成立时间、注册资本、发展历程、组织机构、经营范围、经营状况、资质荣誉、行业地位、从业经验、产品开发、服务体系、质量控制标准等内容）。",
+            "entity_description": [
+                "投标人"
+            ]
+        },
+        {
+            "eid": 91,
+            "entity_name": "供应商基本情况表",
+            "entity_original": "基本情况信息表",
+            "original_text": "附件9投标人基本情况信息表",
+            "entity_description": [
+                "投标人"
+            ]
+        },
+        {
+            "eid": 92,
+            "entity_name": "项目背景",
+            "entity_original": "项目",
+            "original_text": "项目名称：中国东方资产管理股份有限公司关于风险管理部采购恢复和处置计划编制外部专业服务项目",
+            "entity_description": []
+        },
+        {
+            "eid": 93,
+            "entity_name": "项目成员履历表",
+            "entity_original": "主要人员简历表",
+            "original_text": "附件11主要人员简历表",
+            "entity_description": []
+        },
+        {
+            "eid": 94,
+            "entity_name": "法定代表身份证正、反面复印件",
+            "entity_original": "身份证",
+            "original_text": "注：“主要人员”是指实际参加本合同规定的技术和服务工作人员，应附上身份证、学历证、从业资质证书、经验证明材料（复印件）。",
+            "entity_description": []
+        },
+        {
+            "eid": 95,
+            "entity_name": "项目成员履历表",
+            "entity_original": "学历证",
+            "original_text": "注：“主要人员”是指实际参加本合同规定的技术和服务工作人员，应附上身份证、学历证、从业资质证书、经验证明材料（复印件）。",
+            "entity_description": []
+        },
+        {
+            "eid": 96,
+            "entity_name": "项目成员资格证书",
+            "entity_original": "从业资质证书",
+            "original_text": "注：“主要人员”是指实际参加本合同规定的技术和服务工作人员，应附上身份证、学历证、从业资质证书、经验证明材料（复印件）。",
+            "entity_description": []
+        },
+        {
+            "eid": 97,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "术响应",
+            "original_text": "附件12技术响应",
+            "entity_description": []
+        },
+        {
+            "eid": 98,
+            "entity_name": "跟踪服务",
+            "entity_original": "服务",
+            "original_text": "二、服务内容",
+            "entity_description": []
+        },
+        {
+            "eid": 99,
+            "entity_name": "实施方案",
+            "entity_original": "实施",
+            "original_text": "1.4负责参考《银行保险机构恢复和处置计划实施暂行办法》中附件1《恢复计划实例（商业银行版）》要求，结合甲方业务实际情况，协助甲方编制集团层面恢复计划及相关重要支持性文件。",
+            "entity_description": []
+        },
+        {
+            "eid": 100,
+            "entity_name": "实施方案",
+            "entity_original": "实施",
+            "original_text": "1.5负责参考《银行保险机构恢复和处置计划实施暂行办法》中附件3《处置计划建议实例（商业银行版）》要求，结合甲方业务实际情况，编制集团层面处置计划及其相关报告附件。",
+            "entity_description": []
+        },
+        {
+            "eid": 101,
+            "entity_name": "实施方案",
+            "entity_original": "施方案",
+            "original_text": "1.5.5负责制定处置计划的实施方案，包括处置策略、处置时间表、对关键运营连续性的影响、实施责任、与境外处置计划的关系，以及处置计划实施的资金来源、实施处置计划的影响等。",
+            "entity_description": []
+        },
+        {
+            "eid": 102,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标要",
+            "original_text": "四、投标要求",
+            "entity_description": []
+        },
+        {
+            "eid": 103,
+            "entity_name": "实施方案",
+            "entity_original": "施方案",
+            "original_text": "投标人须提供详细的本项目实施方案，项目方案中需明确项目阶段、项目计划、交付物、项目实施安排计划表、资源要求等，并确定人力资源投入计划，明确项目核心成员、驻场周期等。",
+            "entity_description": []
+        },
+        {
+            "eid": 104,
+            "entity_name": "跟踪服务",
+            "entity_original": "计划",
+            "original_text": "乙方需在10月31日前，向甲方提交完整版恢复计划和处置计划。乙方需要协助甲方按照时间要求将首次制定的恢复计划和处置计划提交银保监会并获得认可。",
+            "entity_description": []
+        },
+        {
+            "eid": 105,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "投标保证金",
+            "original_text": "（3）未提交投标保证金的或保证金金额不足的；",
+            "entity_description": []
+        },
+        {
+            "eid": 106,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "保证金",
+            "original_text": "（3）未提交投标保证金的或保证金金额不足的；",
+            "entity_description": []
+        },
+        {
+            "eid": 107,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标",
+            "original_text": "（4）投标有效期不足的；",
+            "entity_description": []
+        }
+    ],
+    "relations": [
+        {
+            "type": 2,
+            "peers": [
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "type": 2,
+            "peers": [
+                16,
+                17,
+                18,
+                19
+            ]
+        },
+        {
+            "type": 2,
+            "peers": [
+                49,
+                50,
+                51,
+                52,
+                53
+            ]
+        },
+        {
+            "type": 2,
+            "peers": [
+                57,
+                58
+            ]
+        },
+        {
+            "type": 2,
+            "peers": [
+                60,
+                61
+            ]
+        },
+        {
+            "type": 2,
+            "peers": [
+                105,
+                106
+            ]
+        }
+    ]
+}

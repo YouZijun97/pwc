@@ -1,0 +1,339 @@
+{
+    "entities": [
+        {
+            "eid": 0,
+            "entity_name": "项目时间计划表",
+            "entity_original": "项目进",
+            "original_text": "南方工业科技贸易有限公司（代理机构）受中国长安汽车集团有限公司（委托人）委托，就事业部改革咨询服务项目进行询比采购，特邀请合格服务商参加。",
+            "entity_description": []
+        },
+        {
+            "eid": 1,
+            "entity_name": "其他材料",
+            "entity_original": "营业执照",
+            "original_text": "1）须为在中国境内合法成立的法人组织（附有效期内的营业执照或事业单位法人证书，复印件并加盖公章）；",
+            "entity_description": []
+        },
+        {
+            "eid": 2,
+            "entity_name": "其他材料",
+            "entity_original": "事业单位法人证书",
+            "original_text": "1）须为在中国境内合法成立的法人组织（附有效期内的营业执照或事业单位法人证书，复印件并加盖公章）；",
+            "entity_description": [
+                "复印件"
+            ]
+        },
+        {
+            "eid": 3,
+            "entity_name": "无重大违法违纪声明",
+            "entity_original": "未出现重大违法违规行为",
+            "original_text": "2）服务商在近三年的市场经营活动中未出现重大违法违规行为（须附声明或承诺）；",
+            "entity_description": []
+        },
+        {
+            "eid": 4,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "保证金",
+            "original_text": "★9、询比采购保证金：人民币壹万伍仟元整（委托人与成交服务商签订合同后5个工作日内退还）。",
+            "entity_description": []
+        },
+        {
+            "eid": 5,
+            "entity_name": "项目时间计划表",
+            "entity_original": "间安排：",
+            "original_text": "2.2程序及时间安排：",
+            "entity_description": []
+        },
+        {
+            "eid": 6,
+            "entity_name": "其他材料",
+            "entity_original": "营业执照",
+            "original_text": "1）法人营业执照或事业单位法人证书（复印件加盖公章）；",
+            "entity_description": []
+        },
+        {
+            "eid": 7,
+            "entity_name": "其他材料",
+            "entity_original": "事业单位法人证书",
+            "original_text": "1）法人营业执照或事业单位法人证书（复印件加盖公章）；",
+            "entity_description": [
+                "复印件加盖公章"
+            ]
+        },
+        {
+            "eid": 8,
+            "entity_name": "报价一览表",
+            "entity_original": "报价函",
+            "original_text": "2）服务商的报价函（附件1）；",
+            "entity_description": []
+        },
+        {
+            "eid": 9,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "法人代表授权书",
+            "original_text": "3）法人代表授权书（原件）（附件2）；",
+            "entity_description": [
+                "原件"
+            ]
+        },
+        {
+            "eid": 10,
+            "entity_name": "项目成员资格证书",
+            "entity_original": "资质证书、",
+            "original_text": "4）企业与本项目相关的资质证书、等级评价或荣誉奖励（复印件加盖公章）；",
+            "entity_description": []
+        },
+        {
+            "eid": 11,
+            "entity_name": "实施方案",
+            "entity_original": "术及实施服务方案",
+            "original_text": "5）技术及实施服务方案；",
+            "entity_description": []
+        },
+        {
+            "eid": 12,
+            "entity_name": "案例合同列表",
+            "entity_original": "相同或类似项目情况表",
+            "original_text": "6）服务商应提供已完成的相同或类似项目情况表，同时提交业绩证明，须提供合同复印件，原件随时备查；",
+            "entity_description": []
+        },
+        {
+            "eid": 13,
+            "entity_name": "团队介绍",
+            "entity_original": "团队人员配置",
+            "original_text": "7）团队人员配置；",
+            "entity_description": []
+        },
+        {
+            "eid": 14,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "授权书",
+            "original_text": "5.2响应文件需由服务商法定代表人或正式授权的代表在响应文件规定处签字。响应文件如是授权代表签字，须将“授权书”附在响应文件中。响应文件无法定代表人签字，或签字无有效授权，其文件将被拒绝。",
+            "entity_description": []
+        },
+        {
+            "eid": 15,
+            "entity_name": "报价一览表",
+            "entity_original": "分项报价表",
+            "original_text": "6.3分项报价表的总价应和报价一览表的报价相一致，包括服务商为完成本项目所发生的一切费用且已包括与所提供的服务相关的所有税费。如分项报价表的总价和报价一览表的报价不一致，应以报价一览表为准。",
+            "entity_description": []
+        },
+        {
+            "eid": 16,
+            "entity_name": "报价一览表",
+            "entity_original": "报价一览表",
+            "original_text": "6.3分项报价表的总价应和报价一览表的报价相一致，包括服务商为完成本项目所发生的一切费用且已包括与所提供的服务相关的所有税费。如分项报价表的总价和报价一览表的报价不一致，应以报价一览表为准。",
+            "entity_description": []
+        },
+        {
+            "eid": 17,
+            "entity_name": "报价一览表",
+            "entity_original": "分项报价表",
+            "original_text": "6.3分项报价表的总价应和报价一览表的报价相一致，包括服务商为完成本项目所发生的一切费用且已包括与所提供的服务相关的所有税费。如分项报价表的总价和报价一览表的报价不一致，应以报价一览表为准。",
+            "entity_description": []
+        },
+        {
+            "eid": 18,
+            "entity_name": "报价一览表",
+            "entity_original": "一览表",
+            "original_text": "6.3分项报价表的总价应和报价一览表的报价相一致，包括服务商为完成本项目所发生的一切费用且已包括与所提供的服务相关的所有税费。如分项报价表的总价和报价一览表的报价不一致，应以报价一览表为准。",
+            "entity_description": []
+        },
+        {
+            "eid": 19,
+            "entity_name": "报价一览表",
+            "entity_original": "报价一览表",
+            "original_text": "6.3分项报价表的总价应和报价一览表的报价相一致，包括服务商为完成本项目所发生的一切费用且已包括与所提供的服务相关的所有税费。如分项报价表的总价和报价一览表的报价不一致，应以报价一览表为准。",
+            "entity_description": []
+        },
+        {
+            "eid": 20,
+            "entity_name": "报价一览表",
+            "entity_original": "服务商商报价一览表",
+            "original_text": "8.1服务商应将报价一览表及服务商基本情况表单独密封提交，并在信封上标明“报价一览表”字样。服务商应将响应文件正本和所有的副本、电子文档分开密封装在单独的信封中，且在信封上标明“正本”、“副本”、“电子文档”字样。然后再将除装有报价一览表及服务商商基本情况表的信封外的所有信封封装在一个外层信封中。",
+            "entity_description": []
+        },
+        {
+            "eid": 21,
+            "entity_name": "供应商基本情况表",
+            "entity_original": "基本情况表",
+            "original_text": "8.1服务商应将报价一览表及服务商基本情况表单独密封提交，并在信封上标明“报价一览表”字样。服务商应将响应文件正本和所有的副本、电子文档分开密封装在单独的信封中，且在信封上标明“正本”、“副本”、“电子文档”字样。然后再将除装有报价一览表及服务商商基本情况表的信封外的所有信封封装在一个外层信封中。",
+            "entity_description": []
+        },
+        {
+            "eid": 22,
+            "entity_name": "报价一览表",
+            "entity_original": "服务商商一览表",
+            "original_text": "8.1服务商应将报价一览表及服务商基本情况表单独密封提交，并在信封上标明“报价一览表”字样。服务商应将响应文件正本和所有的副本、电子文档分开密封装在单独的信封中，且在信封上标明“正本”、“副本”、“电子文档”字样。然后再将除装有报价一览表及服务商商基本情况表的信封外的所有信封封装在一个外层信封中。",
+            "entity_description": []
+        },
+        {
+            "eid": 23,
+            "entity_name": "报价一览表",
+            "entity_original": "服务商商一览表",
+            "original_text": "8.1服务商应将报价一览表及服务商基本情况表单独密封提交，并在信封上标明“报价一览表”字样。服务商应将响应文件正本和所有的副本、电子文档分开密封装在单独的信封中，且在信封上标明“正本”、“副本”、“电子文档”字样。然后再将除装有报价一览表及服务商商基本情况表的信封外的所有信封封装在一个外层信封中。",
+            "entity_description": []
+        },
+        {
+            "eid": 24,
+            "entity_name": "供应商基本情况表",
+            "entity_original": "基本情况表",
+            "original_text": "8.1服务商应将报价一览表及服务商基本情况表单独密封提交，并在信封上标明“报价一览表”字样。服务商应将响应文件正本和所有的副本、电子文档分开密封装在单独的信封中，且在信封上标明“正本”、“副本”、“电子文档”字样。然后再将除装有报价一览表及服务商商基本情况表的信封外的所有信封封装在一个外层信封中。",
+            "entity_description": []
+        },
+        {
+            "eid": 25,
+            "entity_name": "项目背景",
+            "entity_original": "项目背景",
+            "original_text": "一、项目背景",
+            "entity_description": []
+        },
+        {
+            "eid": 26,
+            "entity_name": "案例合同列表",
+            "entity_original": "目服务",
+            "original_text": "二、项目服务内容",
+            "entity_description": []
+        },
+        {
+            "eid": 27,
+            "entity_name": "项目成员资格证书",
+            "entity_original": "质证书",
+            "original_text": "4、上述人员均要求提供简历、社保缴费、资质证书复印件等相关证明材料。",
+            "entity_description": [
+                "复印件"
+            ]
+        },
+        {
+            "eid": 28,
+            "entity_name": "售后服务",
+            "entity_original": "售后服务要求",
+            "original_text": "五、售后服务要求",
+            "entity_description": []
+        },
+        {
+            "eid": 29,
+            "entity_name": "报价一览表",
+            "entity_original": "报价函",
+            "original_text": "★附件1：报价函",
+            "entity_description": []
+        },
+        {
+            "eid": 30,
+            "entity_name": "报价一览表",
+            "entity_original": "报价函",
+            "original_text": "报价函",
+            "entity_description": []
+        },
+        {
+            "eid": 31,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "法定代表人授权书",
+            "original_text": "附件★2：法定代表人授权书格式",
+            "entity_description": []
+        },
+        {
+            "eid": 32,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "法定代表人授权书",
+            "original_text": "法定代表人授权书",
+            "entity_description": []
+        },
+        {
+            "eid": 33,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "授权书",
+            "original_text": "本授权书于年月日签字生效，特此声明。",
+            "entity_description": []
+        },
+        {
+            "eid": 34,
+            "entity_name": "法定代表身份证正、反面复印件",
+            "entity_original": "身份证",
+            "original_text": "（后附法定代表人及被授权人身份证复印件）",
+            "entity_description": [
+                "复印件"
+            ]
+        },
+        {
+            "eid": 35,
+            "entity_name": "报价一览表",
+            "entity_original": "报价表分项报价表",
+            "original_text": "★附件3：报价表分项报价表",
+            "entity_description": []
+        },
+        {
+            "eid": 36,
+            "entity_name": "报价一览表",
+            "entity_original": "分项报价表",
+            "original_text": "分项报价表",
+            "entity_description": []
+        },
+        {
+            "eid": 37,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "保证金支付凭证",
+            "original_text": "★附件5：询比采购保证金支付凭证",
+            "entity_description": []
+        },
+        {
+            "eid": 38,
+            "entity_name": "案例合同列表",
+            "entity_original": "服务商近年同类项目业绩",
+            "original_text": "附7、服务商近年同类项目业绩",
+            "entity_description": []
+        },
+        {
+            "eid": 39,
+            "entity_name": "案例合同列表",
+            "entity_original": "同类项目业绩",
+            "original_text": "近年（2020年1月至今）同类项目业绩",
+            "entity_description": [
+                "年1月至今"
+            ]
+        },
+        {
+            "eid": 40,
+            "entity_name": "实施方案",
+            "entity_original": "技术及实施服务方案",
+            "original_text": "附件8：技术及实施服务方案（格式自拟）",
+            "entity_description": []
+        }
+    ],
+    "relations": [
+        {
+            "type": 2,
+            "peers": [
+                1,
+                2
+            ]
+        },
+        {
+            "type": 2,
+            "peers": [
+                6,
+                7
+            ]
+        },
+        {
+            "type": 2,
+            "peers": [
+                15,
+                16,
+                17,
+                18,
+                19
+            ]
+        },
+        {
+            "type": 2,
+            "peers": [
+                20,
+                21,
+                22,
+                23,
+                24
+            ]
+        }
+    ]
+}

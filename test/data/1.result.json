@@ -1,0 +1,48 @@
+{
+    "entities": [
+        {
+            "eid": 0,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标函",
+            "original_text": "（1）投标函；",
+            "entity_description": []
+        },
+        {
+            "eid": 1,
+            "entity_name": "法定代表身份证正、反面复印件",
+            "entity_original": "身份证明",
+            "original_text": "（2）法定代表人（单位负责人）身份证明或授权委托书；",
+            "entity_description": []
+        },
+        {
+            "eid": 2,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "授权委托书",
+            "original_text": "（2）法定代表人（单位负责人）身份证明或授权委托书；",
+            "entity_description": []
+        },
+        {
+            "eid": 3,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "投标保证金",
+            "original_text": "（4）投标保证金（如有）；",
+            "entity_description": []
+        },
+        {
+            "eid": 4,
+            "entity_name": "报价一览表",
+            "entity_original": "投标报价表",
+            "original_text": "（10）投标报价表。",
+            "entity_description": []
+        }
+    ],
+    "relations": [
+        {
+            "type": 2,
+            "peers": [
+                1,
+                2
+            ]
+        }
+    ]
+}

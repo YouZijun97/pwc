@@ -1,0 +1,650 @@
+{
+    "entities": [
+        {
+            "eid": 0,
+            "entity_name": "项目背景",
+            "entity_original": "项目",
+            "original_text": "数字化转型咨询项目",
+            "entity_description": []
+        },
+        {
+            "eid": 1,
+            "entity_name": "跟踪服务",
+            "entity_original": "服务",
+            "original_text": "2.3服务方式：乙方派遣服务团队，对甲乙双方确定的服务内容，提供相关的服务。",
+            "entity_description": []
+        },
+        {
+            "eid": 2,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "授权委托书",
+            "original_text": "4.2投标人在完成账号准入后（若账号显示“预审通过”或“准入中”均代表未完成账号注册）请在“中国五矿集团有限公司采购电子商务平台”上完成该项目的报名步骤（网上报名的步骤必须在招标公告中规定的报名截止时间前完成），完成报名后可于投标截止日前，每日9:00至11:00，13：30至16:30（北京时间，节假日除外）通过电子邮件向招标代理机构提交1.授权委托书原件扫描件（格式可自拟，授权委托书抬头须为招标代理机构名称，授权委托书必须明确项目名称、招标编号，授权内容须至少包含购买招标文件）、2.招标文件购买登记表（格式见本公告4.1中链接，提供扫描件）、3.标书款发票申请表（格式见本公告4.1中链接，请提供Excel版本）、4.标书款汇款凭证（公司或个人转账皆可。提供转账截图或相关材料，若为个人转账，提供的截图须体现出汇款账户或汇款人相关信息以便我方查阅）。并以银行转账的方式支付人民币3000元的招标文件费用（售后不退），均可购买一套完整的招标文件。收款银行相关信息如下：",
+            "entity_description": [
+                "原件扫描"
+            ]
+        },
+        {
+            "eid": 3,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "授权委托书抬",
+            "original_text": "4.2投标人在完成账号准入后（若账号显示“预审通过”或“准入中”均代表未完成账号注册）请在“中国五矿集团有限公司采购电子商务平台”上完成该项目的报名步骤（网上报名的步骤必须在招标公告中规定的报名截止时间前完成），完成报名后可于投标截止日前，每日9:00至11:00，13：30至16:30（北京时间，节假日除外）通过电子邮件向招标代理机构提交1.授权委托书原件扫描件（格式可自拟，授权委托书抬头须为招标代理机构名称，授权委托书必须明确项目名称、招标编号，授权内容须至少包含购买招标文件）、2.招标文件购买登记表（格式见本公告4.1中链接，提供扫描件）、3.标书款发票申请表（格式见本公告4.1中链接，请提供Excel版本）、4.标书款汇款凭证（公司或个人转账皆可。提供转账截图或相关材料，若为个人转账，提供的截图须体现出汇款账户或汇款人相关信息以便我方查阅）。并以银行转账的方式支付人民币3000元的招标文件费用（售后不退），均可购买一套完整的招标文件。收款银行相关信息如下：",
+            "entity_description": []
+        },
+        {
+            "eid": 4,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "授权委托书",
+            "original_text": "4.2投标人在完成账号准入后（若账号显示“预审通过”或“准入中”均代表未完成账号注册）请在“中国五矿集团有限公司采购电子商务平台”上完成该项目的报名步骤（网上报名的步骤必须在招标公告中规定的报名截止时间前完成），完成报名后可于投标截止日前，每日9:00至11:00，13：30至16:30（北京时间，节假日除外）通过电子邮件向招标代理机构提交1.授权委托书原件扫描件（格式可自拟，授权委托书抬头须为招标代理机构名称，授权委托书必须明确项目名称、招标编号，授权内容须至少包含购买招标文件）、2.招标文件购买登记表（格式见本公告4.1中链接，提供扫描件）、3.标书款发票申请表（格式见本公告4.1中链接，请提供Excel版本）、4.标书款汇款凭证（公司或个人转账皆可。提供转账截图或相关材料，若为个人转账，提供的截图须体现出汇款账户或汇款人相关信息以便我方查阅）。并以银行转账的方式支付人民币3000元的招标文件费用（售后不退），均可购买一套完整的招标文件。收款银行相关信息如下：",
+            "entity_description": []
+        },
+        {
+            "eid": 5,
+            "entity_name": "售后服务",
+            "entity_original": "售后",
+            "original_text": "4.2投标人在完成账号准入后（若账号显示“预审通过”或“准入中”均代表未完成账号注册）请在“中国五矿集团有限公司采购电子商务平台”上完成该项目的报名步骤（网上报名的步骤必须在招标公告中规定的报名截止时间前完成），完成报名后可于投标截止日前，每日9:00至11:00，13：30至16:30（北京时间，节假日除外）通过电子邮件向招标代理机构提交1.授权委托书原件扫描件（格式可自拟，授权委托书抬头须为招标代理机构名称，授权委托书必须明确项目名称、招标编号，授权内容须至少包含购买招标文件）、2.招标文件购买登记表（格式见本公告4.1中链接，提供扫描件）、3.标书款发票申请表（格式见本公告4.1中链接，请提供Excel版本）、4.标书款汇款凭证（公司或个人转账皆可。提供转账截图或相关材料，若为个人转账，提供的截图须体现出汇款账户或汇款人相关信息以便我方查阅）。并以银行转账的方式支付人民币3000元的招标文件费用（售后不退），均可购买一套完整的招标文件。收款银行相关信息如下：",
+            "entity_description": []
+        },
+        {
+            "eid": 6,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标",
+            "original_text": "5、投标、开标、评审时间和地点：",
+            "entity_description": []
+        },
+        {
+            "eid": 7,
+            "entity_name": "项目背景",
+            "entity_original": "项目",
+            "original_text": "3.1项目名称：见投标人须知前附表。",
+            "entity_description": [
+                "投标人"
+            ]
+        },
+        {
+            "eid": 8,
+            "entity_name": "商务条款偏离表",
+            "entity_original": "技术需求书",
+            "original_text": "（7）技术需求书",
+            "entity_description": []
+        },
+        {
+            "eid": 9,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "授权委托书",
+            "original_text": "表人授权委托书；",
+            "entity_description": [
+                "人"
+            ]
+        },
+        {
+            "eid": 10,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标函",
+            "original_text": "10.2投标人应完整地填写招标文件中提供的投标函、开标一览表、资格资信证明文件等规定的所有内容。",
+            "entity_description": []
+        },
+        {
+            "eid": 11,
+            "entity_name": "其他材料",
+            "entity_original": "开标一览表",
+            "original_text": "10.2投标人应完整地填写招标文件中提供的投标函、开标一览表、资格资信证明文件等规定的所有内容。",
+            "entity_description": []
+        },
+        {
+            "eid": 12,
+            "entity_name": "项目成员资格证书",
+            "entity_original": "资格资信证明",
+            "original_text": "10.2投标人应完整地填写招标文件中提供的投标函、开标一览表、资格资信证明文件等规定的所有内容。",
+            "entity_description": []
+        },
+        {
+            "eid": 13,
+            "entity_name": "报价一览表",
+            "entity_original": "投标报价",
+            "original_text": "11.投标报价",
+            "entity_description": []
+        },
+        {
+            "eid": 14,
+            "entity_name": "报价一览表",
+            "entity_original": "投标报价",
+            "original_text": "11.2投标报价见投标须知前附表。",
+            "entity_description": []
+        },
+        {
+            "eid": 15,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标函",
+            "original_text": "11.5投标函中的投标总报价不得使用手写或修改。",
+            "entity_description": []
+        },
+        {
+            "eid": 16,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "授权委托书",
+            "original_text": "13.1.1出具经法定代表人签字、公司盖章的“法定代表人授权委托书”，并附法定代表人或授权人身份证复印件；",
+            "entity_description": []
+        },
+        {
+            "eid": 17,
+            "entity_name": "法定代表身份证正、反面复印件",
+            "entity_original": "身份证",
+            "original_text": "13.1.1出具经法定代表人签字、公司盖章的“法定代表人授权委托书”，并附法定代表人或授权人身份证复印件；",
+            "entity_description": [
+                "复印件",
+                "授权人"
+            ]
+        },
+        {
+            "eid": 18,
+            "entity_name": "无重大违法违纪声明",
+            "entity_original": "大违法行为",
+            "original_text": "13.1.5近三年无重大违法行为承诺：投标人需提供近三年来无重大违法行为（包括不仅限于骗取中标或中标后不履行合同义务等）的承诺函原件；",
+            "entity_description": []
+        },
+        {
+            "eid": 19,
+            "entity_name": "承诺书",
+            "entity_original": "承诺函",
+            "original_text": "13.1.5近三年无重大违法行为承诺：投标人需提供近三年来无重大违法行为（包括不仅限于骗取中标或中标后不履行合同义务等）的承诺函原件；",
+            "entity_description": [
+                "原件"
+            ]
+        },
+        {
+            "eid": 20,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "投标保证金",
+            "original_text": "13.1.6提供投标保证金递交凭证，需附银行电汇凭证及基本存款账户开户许可证复印件；",
+            "entity_description": []
+        },
+        {
+            "eid": 21,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "投标保证金",
+            "original_text": "14.投标保证金",
+            "entity_description": []
+        },
+        {
+            "eid": 22,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "保证金",
+            "original_text": "14.1投标人应按投标人须知前附表的规定缴纳投标保证金。",
+            "entity_description": [
+                "投标人"
+            ]
+        },
+        {
+            "eid": 23,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "投标保证金",
+            "original_text": "14.2本项目不接受投标人须知前附表规定的其他方式递交的投标保证金。",
+            "entity_description": [
+                "投标人"
+            ]
+        },
+        {
+            "eid": 24,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "投标保证金",
+            "original_text": "14.4投标保证金将在合同签订后5日内向中标人和未中标的投标人退还。",
+            "entity_description": [
+                "中标人",
+                "标人退"
+            ]
+        },
+        {
+            "eid": 25,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标",
+            "original_text": "15.投标的有效期",
+            "entity_description": []
+        },
+        {
+            "eid": 26,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标",
+            "original_text": "19.迟交的投标文件",
+            "entity_description": []
+        },
+        {
+            "eid": 27,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标截",
+            "original_text": "26.1投标截止时间止，投标人少于3个的；",
+            "entity_description": []
+        },
+        {
+            "eid": 28,
+            "entity_name": "响应/投标/参选申请函",
+            "entity_original": "投标函",
+            "original_text": "一、投标函",
+            "entity_description": []
+        },
+        {
+            "eid": 29,
+            "entity_name": "法定代表身份证正、反面复印件",
+            "entity_original": "身份证明",
+            "original_text": "法定代表人身份证明和法定代表人授权委托书；",
+            "entity_description": [
+                "法定代表人"
+            ]
+        },
+        {
+            "eid": 30,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "授权委托书",
+            "original_text": "法定代表人身份证明和法定代表人授权委托书；",
+            "entity_description": [
+                "法定代表人"
+            ]
+        },
+        {
+            "eid": 31,
+            "entity_name": "其他材料",
+            "entity_original": "开标一览表",
+            "original_text": "开标一览表和分项报价表；",
+            "entity_description": []
+        },
+        {
+            "eid": 32,
+            "entity_name": "报价一览表",
+            "entity_original": "分项报价表",
+            "original_text": "开标一览表和分项报价表；",
+            "entity_description": []
+        },
+        {
+            "eid": 33,
+            "entity_name": "商务条款偏离表",
+            "entity_original": "商务与技术服务需求响应/偏离表",
+            "original_text": "、商务与技术服务需求响应/偏离表；",
+            "entity_description": []
+        },
+        {
+            "eid": 34,
+            "entity_name": "法定代表身份证正、反面复印件",
+            "entity_original": "身份证明",
+            "original_text": "二、法定代表人身份证明",
+            "entity_description": [
+                "法定代表人"
+            ]
+        },
+        {
+            "eid": 35,
+            "entity_name": "法定代表身份证正、反面复印件",
+            "entity_original": "身份证",
+            "original_text": "法定代表人身份证正面",
+            "entity_description": [
+                "法定代表人"
+            ]
+        },
+        {
+            "eid": 36,
+            "entity_name": "法定代表身份证正、反面复印件",
+            "entity_original": "身份证",
+            "original_text": "法定代表人身份证反面",
+            "entity_description": [
+                "法定代表人",
+                "反面"
+            ]
+        },
+        {
+            "eid": 37,
+            "entity_name": "法定代表身份证正、反面复印件",
+            "entity_original": "身份证勿",
+            "original_text": "法：如投标文存为法定代表人签署，奶须提交《法定代表人身份证勿》。",
+            "entity_description": [
+                "法定代表人",
+                "投标文"
+            ]
+        },
+        {
+            "eid": 38,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "授权委托书",
+            "original_text": "二、法定代表人授权委托书",
+            "entity_description": [
+                "法定代表人"
+            ]
+        },
+        {
+            "eid": 39,
+            "entity_name": "法定代表身份证正、反面复印件",
+            "entity_original": "人身份证",
+            "original_text": "授权代表凭本人身份证复印件且加盖授权单位公章办理授权事项。",
+            "entity_description": [
+                "复印件"
+            ]
+        },
+        {
+            "eid": 40,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "授权委",
+            "original_text": "如茂标文#为授权代表签署，奶须提交《法定代表人授权委/书》。",
+            "entity_description": [
+                "授权代表",
+                "法定代表人"
+            ]
+        },
+        {
+            "eid": 41,
+            "entity_name": "其他材料",
+            "entity_original": "开标一览表",
+            "original_text": "三、开标一览表与分项报价表",
+            "entity_description": []
+        },
+        {
+            "eid": 42,
+            "entity_name": "报价一览表",
+            "entity_original": "分项报价表",
+            "original_text": "三、开标一览表与分项报价表",
+            "entity_description": []
+        },
+        {
+            "eid": 43,
+            "entity_name": "其他材料",
+            "entity_original": "开标一览表",
+            "original_text": "1.开标一览表",
+            "entity_description": []
+        },
+        {
+            "eid": 44,
+            "entity_name": "其他材料",
+            "entity_original": "开标一览表",
+            "original_text": "说明：1、开标一览表在开标大会上当众宣读，务必填写清楚，准确无误。",
+            "entity_description": []
+        },
+        {
+            "eid": 45,
+            "entity_name": "报价一览表",
+            "entity_original": "投标报价",
+            "original_text": "2、投标报价为“2.分项报价表”中的合计金额。",
+            "entity_description": []
+        },
+        {
+            "eid": 46,
+            "entity_name": "报价一览表",
+            "entity_original": "分项报价表",
+            "original_text": "2、投标报价为“2.分项报价表”中的合计金额。",
+            "entity_description": []
+        },
+        {
+            "eid": 47,
+            "entity_name": "其他材料",
+            "entity_original": "开标一览表",
+            "original_text": "注：开标一览表的签字盖章扫描件要同投标文件一起单独上传至中国五矿集团有限公司采购电子商务平台。",
+            "entity_description": []
+        },
+        {
+            "eid": 48,
+            "entity_name": "报价一览表",
+            "entity_original": "分项报价表",
+            "original_text": "2.分项报价表",
+            "entity_description": []
+        },
+        {
+            "eid": 49,
+            "entity_name": "报价一览表",
+            "entity_original": "项报价",
+            "original_text": "2、如果不提供详细分项报价将视为没有实质性响应招标文件；",
+            "entity_description": []
+        },
+        {
+            "eid": 50,
+            "entity_name": "报价一览表",
+            "entity_original": "人员报价表",
+            "original_text": "人员报价表",
+            "entity_description": []
+        },
+        {
+            "eid": 51,
+            "entity_name": "商务条款偏离表",
+            "entity_original": "求响应/偏离表",
+            "original_text": "四、商务与技术服务需求响应/偏离表",
+            "entity_description": []
+        },
+        {
+            "eid": 52,
+            "entity_name": "商务条款偏离表",
+            "entity_original": "需求响应/偏离表",
+            "original_text": "1.商务及服务需求响应/偏离表（列表体现）",
+            "entity_description": []
+        },
+        {
+            "eid": 53,
+            "entity_name": "商务条款偏离表",
+            "entity_original": "技术及服务需求响应/偏离表",
+            "original_text": "2.技术及服务需求响应/偏离表",
+            "entity_description": []
+        },
+        {
+            "eid": 54,
+            "entity_name": "审计报告",
+            "entity_original": "财务报表",
+            "original_text": "（2）财务报表复印件；",
+            "entity_description": [
+                "复印件"
+            ]
+        },
+        {
+            "eid": 55,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "标保证金",
+            "original_text": "（6）投标保证金递交凭证（附银行电汇凭证及基本存款账户开户许可证或基本存款账户信息）；",
+            "entity_description": []
+        },
+        {
+            "eid": 56,
+            "entity_name": "审计报告",
+            "entity_original": "财务报表",
+            "original_text": "（2）财务报表复印件",
+            "entity_description": [
+                "复印件"
+            ]
+        },
+        {
+            "eid": 57,
+            "entity_name": "团队介绍",
+            "entity_original": "项目服务团队介绍",
+            "original_text": "项目服务团队介绍",
+            "entity_description": []
+        },
+        {
+            "eid": 58,
+            "entity_name": "执业持证人员情况表",
+            "entity_original": "人员情况",
+            "original_text": "1、执行人员情况：投入人员相关内容请按如下附表格式填写，以便评审时查阅。",
+            "entity_description": []
+        },
+        {
+            "eid": 59,
+            "entity_name": "团队介绍",
+            "entity_original": "服务团队表",
+            "original_text": "服务团队表",
+            "entity_description": []
+        },
+        {
+            "eid": 60,
+            "entity_name": "执业持证人员情况表",
+            "entity_original": "人员情况表",
+            "original_text": "服务人员情况表",
+            "entity_description": []
+        },
+        {
+            "eid": 61,
+            "entity_name": "投标保证金承诺函",
+            "entity_original": "标保证金",
+            "original_text": "（6）投标保证金递交凭证（附银行电汇凭证及基本存款账户开户许可证或基本存款账户信息）",
+            "entity_description": []
+        },
+        {
+            "eid": 62,
+            "entity_name": "项目背景",
+            "entity_original": "项目建设背景",
+            "original_text": "一、项目建设背景",
+            "entity_description": []
+        },
+        {
+            "eid": 63,
+            "entity_name": "项目背景",
+            "entity_original": "项目",
+            "original_text": "三、项目主要工作任务",
+            "entity_description": []
+        },
+        {
+            "eid": 64,
+            "entity_name": "财务数据",
+            "entity_original": "数据",
+            "original_text": "企业数据模型包括数据实体、数据实体间关系、关键业务规则和关键属性；数据流设计要明确记录数据血缘的数据加工过程，解决数据（端到端的数据流）起源、存储和使用，在不同流程和系统内或之间如何转化。规划数据建模，确保数据平台更符合当前的需求和未来的业务需求，为进一步的数据应用或数据管理奠定良好的基础。定义元数据战略，理解元数据需求和定义元数据架构。",
+            "entity_description": []
+        },
+        {
+            "eid": 65,
+            "entity_name": "实施方案",
+            "entity_original": "方案",
+            "original_text": "秉持统筹建设、敏捷部署、资源共享、降本增效的原则，在五矿资本云平台建设目标和详细方案选型中给出专家意见。",
+            "entity_description": []
+        },
+        {
+            "eid": 66,
+            "entity_name": "项目背景",
+            "entity_original": "项目",
+            "original_text": "项目要为未来三到五年的数字化转型合理划分不同阶段和目标，每个阶段有明确的实施效果，根据阶段性目标和要达到的效果，设定各阶段的核心工作。",
+            "entity_description": []
+        },
+        {
+            "eid": 67,
+            "entity_name": "项目背景",
+            "entity_original": "项目",
+            "original_text": "七、项目管理的要求",
+            "entity_description": []
+        },
+        {
+            "eid": 68,
+            "entity_name": "项目时间计划表",
+            "entity_original": "详细项目实施计划",
+            "original_text": "根据项目实施范围和内容，以及项目实施总体时间，制定详细项目实施计划，确保项目在保证质量的前提下按期完成。在制定总体进度计划的同时要制定阶段性工作计划，时间以周计算，具体工作要落实到人，并提交阶段工作成果。",
+            "entity_description": []
+        },
+        {
+            "eid": 69,
+            "entity_name": "项目时间计划表",
+            "entity_original": "实施计划",
+            "original_text": "要定期对具体实施计划进行跟踪检查，对可能发生的工期延误提出相应对策。",
+            "entity_description": []
+        },
+        {
+            "eid": 70,
+            "entity_name": "实施方案",
+            "entity_original": "实施方案",
+            "original_text": "投标人应针对本项目建立完整的项目组织体系并保证其有效运行。投标人的项目实施方案中应包含对项目组织机构及项目实施人员的详细描述，并附上项目组织机构示意图、项目实施人员简历表及资格证书等其它背景资料。投标人的项目组织机构中应包含实施本项目所必须的各类专业技术和管理人员，其中包括但不限于项目负责人、咨询专家以及系统分析、架构设计、文档管理等方面的专业人员。投标人必须保证参与本项目人员具备承担本项目的足够的水平和能力项目组成员的专业方向应具有较大的覆盖面，涵盖本项目研究所需领域专业，包括数据治理、数据平台、产业协同、融融协同、企业架构、技术架构、风险管理、人力资源管理、客户管理、信息安全、云计算、大数据技术等。",
+            "entity_description": []
+        },
+        {
+            "eid": 71,
+            "entity_name": "项目成员履历表",
+            "entity_original": "目实施人员简历表",
+            "original_text": "投标人应针对本项目建立完整的项目组织体系并保证其有效运行。投标人的项目实施方案中应包含对项目组织机构及项目实施人员的详细描述，并附上项目组织机构示意图、项目实施人员简历表及资格证书等其它背景资料。投标人的项目组织机构中应包含实施本项目所必须的各类专业技术和管理人员，其中包括但不限于项目负责人、咨询专家以及系统分析、架构设计、文档管理等方面的专业人员。投标人必须保证参与本项目人员具备承担本项目的足够的水平和能力项目组成员的专业方向应具有较大的覆盖面，涵盖本项目研究所需领域专业，包括数据治理、数据平台、产业协同、融融协同、企业架构、技术架构、风险管理、人力资源管理、客户管理、信息安全、云计算、大数据技术等。",
+            "entity_description": [
+                "项"
+            ]
+        },
+        {
+            "eid": 72,
+            "entity_name": "团队介绍",
+            "entity_original": "目成员",
+            "original_text": "本项目的的主要人员必须是对应业务的资深人员。投标人必须提供项目成员相应的资质供招标人审查。招标人有权组织对投标人项目成员进行面试考察。",
+            "entity_description": []
+        },
+        {
+            "eid": 73,
+            "entity_name": "项目背景",
+            "entity_original": "项目",
+            "original_text": "3.中标方项目管理小组成员将在三个工作日内复核变更申请。审核后作进一步考察或者拒绝变更。最终变更的成立需由招标人和中标方双方项目领导和项目经理同时核准方可生效。",
+            "entity_description": [
+                "中标方"
+            ]
+        },
+        {
+            "eid": 74,
+            "entity_name": "实施方案",
+            "entity_original": "实施",
+            "original_text": "中标人在项目开始时、项目实施过程中和项目结束时应向用户至少提供下述技术文档。",
+            "entity_description": [
+                "中标人"
+            ]
+        },
+        {
+            "eid": 75,
+            "entity_name": "项目时间计划表",
+            "entity_original": "项目总体进度计划",
+            "original_text": "所有项目实施文件，包括但不限于：项目总体进度计划与实施人员安排、项目管理方案、交付计划、培训与质量保证计划等。",
+            "entity_description": []
+        },
+        {
+            "eid": 76,
+            "entity_name": "项目成员履历表",
+            "entity_original": "实施人员安排",
+            "original_text": "所有项目实施文件，包括但不限于：项目总体进度计划与实施人员安排、项目管理方案、交付计划、培训与质量保证计划等。",
+            "entity_description": []
+        },
+        {
+            "eid": 77,
+            "entity_name": "案例合同复印件",
+            "entity_original": "项目建议书",
+            "original_text": "本项目实施过程中各阶段产生的所有应向招标人提交的成果类文档，包括但不限于：项目建议书、咨询报告、咨询服务成果、工具模板、培训稿、调研问卷、访谈纪要等。",
+            "entity_description": []
+        },
+        {
+            "eid": 78,
+            "entity_name": "售后服务",
+            "entity_original": "售后服",
+            "original_text": "（3）项目质保期内的技术支持与售后服务的全部费用包含在投标总价中。",
+            "entity_description": []
+        },
+        {
+            "eid": 79,
+            "entity_name": "项目背景",
+            "entity_original": "项目",
+            "original_text": "（4）投标人应在项目质保期满后根据招标人需要提供相应的后续服务，包括但不限于为三年信息化建设项目提供指导和评估，以及本项目不少于4次的后评价服务。",
+            "entity_description": []
+        },
+        {
+            "eid": 80,
+            "entity_name": "保密承诺函",
+            "entity_original": "保密协",
+            "original_text": "投标人在购买标书后所获悉的属于招标人的商业秘密、技术秘密和其他经营管理信息、技术信息等予以保密，仅限于本项目使用。未经招标人同意，不得向任何第三方泄露。无论是否中标双方仍应执行本保密条款。招标人如有需要，双方另行签订保密协议。",
+            "entity_description": [
+                "人",
+                "招",
+                "投标人",
+                "招标人"
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "type": 2,
+            "peers": [
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "type": 2,
+            "peers": [
+                16,
+                17
+            ]
+        },
+        {
+            "type": 2,
+            "peers": [
+                18,
+                19
+            ]
+        }
+    ]
+}

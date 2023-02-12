@@ -1,0 +1,306 @@
+{
+    "0": {
+            "text_original": "附件一、投标函（格式）",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "格式"
+                            ],
+                            "entity_name": "响应/投标/参选申请函",
+                            "entity_original": "投标函（格式）",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "2": {
+            "text_original": "附件三、法定代表人身份证明（格式）",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "格式"
+                            ],
+                            "entity_name": "法定代表身份证正、反面复印件",
+                            "entity_original": "法定代表人身份证明（格式）",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "3": {
+            "text_original": "附件三、授权书（格式）",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "格式"
+                            ],
+                            "entity_name": "法定代表人授权委托书",
+                            "entity_original": "授权书（格式）",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "4": {
+            "text_original": "附件四、投标保证金缴纳凭证",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "null"
+                            ],
+                            "entity_name": "社会保障金缴纳证明",
+                            "entity_original": "投标保证金缴纳凭证",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "5": {
+            "text_original": "附件五、技术规格偏离表（格式）",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "格式"
+                            ],
+                            "entity_name": "商务条款偏离表",
+                            "entity_original": "技术规格偏离表（格式）",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "6": {
+            "text_original": "附件六、商务条款偏离表（格式）",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "格式"
+                            ],
+                            "entity_name": "商务条款偏离表",
+                            "entity_original": "商务条款偏离表（格式）",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "7": {
+            "text_original": "附件七、投标方基本情况表",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "null"
+                            ],
+                            "entity_name": "团队介绍",
+                            "entity_original": "投标方基本情况表",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "8": {
+            "text_original": "附件八、拟参加本项目的项目经理及主要人员介绍和相关资质证明",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "拟参加本项目"
+                            ],
+                            "entity_name": "案例合同列表",
+                            "entity_original": "拟参加本项目的项目经理",
+                            "entity_relation": "和"
+                    },
+                    "entity2": {
+                            "entity_description": [
+                                    "null"
+                            ],
+                            "entity_name": "公司简介",
+                            "entity_original": "主要人员介绍和相关资质证明",
+                            "entity_relation": "和"
+                    }
+            }
+    },
+    "9": {
+            "text_original": "附件九、投标人资格证明文件",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "null"
+                            ],
+                            "entity_name": "法定代表人证明书",
+                            "entity_original": "投标人资格证明文件",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "10": {
+            "text_original": "附件十、招标服务费承诺书",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "null"
+                            ],
+                            "entity_name": "投标保证金承诺函",
+                            "entity_original": "招标服务费承诺书",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "11": {
+            "text_original": "*附件十一、承诺函",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "null"
+                            ],
+                            "entity_name": "保密承诺函",
+                            "entity_original": "附件十一、承诺函",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "12": {
+            "text_original": "附件十二、投资参股的关联企业情况表",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "投资参股"
+                            ],
+                            "entity_name": "供应商基本情况表",
+                            "entity_original": "投资参股的关联企业情况表",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "13": {
+            "text_original": "附件十三、保密承诺书",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "null"
+                            ],
+                            "entity_name": "投标保证金承诺函",
+                            "entity_original": "保密承诺书",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "14": {
+            "text_original": "附件十四、其他",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "null"
+                            ],
+                            "entity_name": "其他",
+                            "entity_original": "其他",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "15": {
+            "text_original": "技术部分（包含不限于以下内容）",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "包含不限于以下内容"
+                            ],
+                            "entity_name": "商务条款偏离表",
+                            "entity_original": "技术部分（包含不限于以下内容）",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "16": {
+            "text_original": "项目整体实施方案",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "null"
+                            ],
+                            "entity_name": "实施方案",
+                            "entity_original": "项目整体实施方案",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "17": {
+            "text_original": "专属团队",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "null"
+                            ],
+                            "entity_name": "项目成员履历表",
+                            "entity_original": "专属团队",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "18": {
+            "text_original": "整体项目进度计划",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "null"
+                            ],
+                            "entity_name": "项目时间计划表",
+                            "entity_original": "整体项目进度计划",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "19": {
+            "text_original": "知识转移及培训方案",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "null"
+                            ],
+                            "entity_name": "知识转移方案",
+                            "entity_original": "知识转移方案",
+                            "entity_relation": "和"
+                    },
+                    "entity2": {
+                            "entity_description": [
+                                    "null"
+                            ],
+                            "entity_name": "知识培训方案",
+                            "entity_original": "知识培训方案",
+                            "entity_relation": "和"
+                    }
+            }
+    },
+    "20": {
+            "text_original": "增值服务方案",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "null"
+                            ],
+                            "entity_name": "团队介绍",
+                            "entity_original": "增值服务方案",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "21": {
+            "text_original": "2.2 除上述 2.1 条外，投标文件还应包括本须知第 3 条的所有文件。",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "条外，投标文件还应包括本须知第3条"
+                            ],
+                            "entity_name": "项目成员资格证书",
+                            "entity_original": "条外，投标文件还应包括本须知第3条的所有文件",
+                            "entity_relation": "null"
+                    }
+            }
+    },
+    "22": {
+            "text_original": "2.3 投标人提供的以上材料必须真实有效，任何一项存在虚假记载、误导性陈述或重大遗漏将导致其投标被拒绝。",
+            "entities_info": {
+                    "entity1": {
+                            "entity_description": [
+                                    "投标人提供",
+                                    "任何一项存在虚假记载",
+                                    "误导性陈述或重大遗漏将导致其投标被拒"
+                            ],
+                            "entity_name": "以上材料必须真实有效，任何一项存在虚假记载、误导性陈述或重大遗漏将导致其投标被拒绝",
+                            "entity_original": "投标人提供的以上材料必须真实有效，任何一项存在虚假记载、误导性陈述或重大遗漏将导致其投标被拒绝",
+                            "entity_relation": "null"
+                    }
+            }
+    }
+}

@@ -1,0 +1,380 @@
+{
+    "entities": [
+        {
+            "eid": 0,
+            "entity_name": "报价一览表",
+            "entity_original": "报价一览表0",
+            "original_text": "（二）报价一览表…………………………………………………………………02",
+            "entity_description": []
+        },
+        {
+            "eid": 1,
+            "entity_name": "报价明细表",
+            "entity_original": "报价明细表0",
+            "original_text": "（三）报价明细表…………………………………………………………………03",
+            "entity_description": []
+        },
+        {
+            "eid": 2,
+            "entity_name": "其他材料",
+            "entity_original": "营业执照",
+            "original_text": "2.营业执照复印件…………………………………………………………00",
+            "entity_description": []
+        },
+        {
+            "eid": 3,
+            "entity_name": "其他材料",
+            "entity_original": "税务登记证",
+            "original_text": "3.税务登记证复印件………………………………………………………00",
+            "entity_description": []
+        },
+        {
+            "eid": 4,
+            "entity_name": "其他材料",
+            "entity_original": "组织机构代码证",
+            "original_text": "4.组织机构代码证复印件…………………………………………………00",
+            "entity_description": []
+        },
+        {
+            "eid": 5,
+            "entity_name": "社会保障金缴纳证明",
+            "entity_original": "社会保障资金",
+            "original_text": "5.依法缴纳税收和社会保障资金的相关资料……………………………00",
+            "entity_description": []
+        },
+        {
+            "eid": 6,
+            "entity_name": "财务报表",
+            "entity_original": "财务状况报告0",
+            "original_text": "6.财务状况报告……………………………………………………………00",
+            "entity_description": []
+        },
+        {
+            "eid": 7,
+            "entity_name": "办公室租金支付凭证/租赁合同",
+            "entity_original": "租赁合同0",
+            "original_text": "8.经营场地房产证或租赁合同……………………………………………00",
+            "entity_description": []
+        },
+        {
+            "eid": 8,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "法人授权委托书0",
+            "original_text": "9.法人授权委托书…………………………………………………………00",
+            "entity_description": []
+        },
+        {
+            "eid": 9,
+            "entity_name": "无重大违法违纪声明",
+            "entity_original": "中无重大违法活动",
+            "original_text": "7）我们郑重声明：我公司符合相关法律法规规定的参加本次采购活动应当具备的条件：具有健全的财务会计制度、依法缴纳税收和社会保障资金、参加本次采购活动之前的三年内，在经营活动中无重大违法活动。",
+            "entity_description": []
+        },
+        {
+            "eid": 10,
+            "entity_name": "报价一览表",
+            "entity_original": "报价一览表",
+            "original_text": "（二）报价一览表",
+            "entity_description": []
+        },
+        {
+            "eid": 11,
+            "entity_name": "报价一览表",
+            "entity_original": "报价一览表",
+            "original_text": "注：1.报价总金额应与“响应函”中报价一致，如不一致，以报价一览表总金额大写为准。",
+            "entity_description": []
+        },
+        {
+            "eid": 12,
+            "entity_name": "报价一览表",
+            "entity_original": "报价一览表",
+            "original_text": "3.“报价一览表”为多页的，每页均需盖供应商印章。",
+            "entity_description": []
+        },
+        {
+            "eid": 13,
+            "entity_name": "报价明细表",
+            "entity_original": "报价明细表",
+            "original_text": "（三）报价明细表",
+            "entity_description": []
+        },
+        {
+            "eid": 14,
+            "entity_name": "供应商基本情况表",
+            "entity_original": "供应商基本情况表",
+            "original_text": "1.供应商基本情况表（盖章）",
+            "entity_description": []
+        },
+        {
+            "eid": 15,
+            "entity_name": "供应商基本情况表",
+            "entity_original": "供应商基本情况表",
+            "original_text": "供应商基本情况表",
+            "entity_description": []
+        },
+        {
+            "eid": 16,
+            "entity_name": "公司简介",
+            "entity_original": "供应商公司简介",
+            "original_text": "2.供应商公司简介（应包含但不限于以下内容）；",
+            "entity_description": []
+        },
+        {
+            "eid": 17,
+            "entity_name": "客户公司/业务介绍",
+            "entity_original": "业务范",
+            "original_text": "（2）组织架构及业务范围；",
+            "entity_description": []
+        },
+        {
+            "eid": 18,
+            "entity_name": "案例合同列表",
+            "entity_original": "营业务情况",
+            "original_text": "（3）主营业务情况；",
+            "entity_description": []
+        },
+        {
+            "eid": 19,
+            "entity_name": "执业持证人员情况表",
+            "entity_original": "人员情况",
+            "original_text": "（4）职工人数（其中技术人员及管理人员情况）",
+            "entity_description": []
+        },
+        {
+            "eid": 20,
+            "entity_name": "其他材料",
+            "entity_original": "营业执照",
+            "original_text": "3.法人或者其他组织的营业执照等证明文件，自然人的身份证明（具体要求详见初步审查表）",
+            "entity_description": []
+        },
+        {
+            "eid": 21,
+            "entity_name": "法定代表身份证正、反面复印件",
+            "entity_original": "身份证明",
+            "original_text": "3.法人或者其他组织的营业执照等证明文件，自然人的身份证明（具体要求详见初步审查表）",
+            "entity_description": []
+        },
+        {
+            "eid": 22,
+            "entity_name": "财务报表",
+            "entity_original": "财务状况报告",
+            "original_text": "4. 财务状况报告，依法缴纳税收和社会保障资金的相关材料（具体要求详见初步审查表）",
+            "entity_description": []
+        },
+        {
+            "eid": 23,
+            "entity_name": "社会保障金缴纳证明",
+            "entity_original": "社会保障资金",
+            "original_text": "4. 财务状况报告，依法缴纳税收和社会保障资金的相关材料（具体要求详见初步审查表）",
+            "entity_description": []
+        },
+        {
+            "eid": 24,
+            "entity_name": "无重大违法违纪声明",
+            "entity_original": "没有重大违法记录的书面声明",
+            "original_text": "6.参加采购活动前 3 年内在经营活动中没有重大违法记录的书面声明（具体要求详见初步审查表）",
+            "entity_description": []
+        },
+        {
+            "eid": 25,
+            "entity_name": "信用中国",
+            "entity_original": "信用信",
+            "original_text": "信用信是",
+            "entity_description": []
+        },
+        {
+            "eid": 26,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "授权委托书",
+            "original_text": "8. 授权委托书",
+            "entity_description": []
+        },
+        {
+            "eid": 27,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "法人授权委托书",
+            "original_text": "（1）法人授权委托书（如为授权代表参与项目提供此委托）",
+            "entity_description": []
+        },
+        {
+            "eid": 28,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "法人授权委托书",
+            "original_text": "法人授权委托书",
+            "entity_description": []
+        },
+        {
+            "eid": 29,
+            "entity_name": "法定代表身份证正、反面复印件",
+            "entity_original": "身份证",
+            "original_text": "（供应商全称） 法定代表人 姓名 授权 被授权人姓名（身份证号码：）为本公司合法代理人，参加贵方组织的项目名称（项目编号： ）的磋商活动，代表本公司处理磋商活动中的一切事宜。",
+            "entity_description": []
+        },
+        {
+            "eid": 30,
+            "entity_name": "法定代表人授权委托书",
+            "entity_original": "授权委托书",
+            "original_text": "本授权委托书签章即生效，被委托人无转委托权。",
+            "entity_description": [
+                "签章"
+            ]
+        },
+        {
+            "eid": 31,
+            "entity_name": "法定代表身份证正、反面复印件",
+            "entity_original": "身份证复",
+            "original_text": "注：身份证复印件如为粘贴的，须在身份证复印件与本页接缝处加盖公章；",
+            "entity_description": [
+                "印件"
+            ]
+        },
+        {
+            "eid": 32,
+            "entity_name": "法定代表身份证正、反面复印件",
+            "entity_original": "身份证复",
+            "original_text": "注：身份证复印件如为粘贴的，须在身份证复印件与本页接缝处加盖公章；",
+            "entity_description": [
+                "印件"
+            ]
+        },
+        {
+            "eid": 33,
+            "entity_name": "法定代表身份证正、反面复印件",
+            "entity_original": "法人代表身份证明",
+            "original_text": "（2）法人代表身份证明（如为法人代表参与项目提供此证明）",
+            "entity_description": []
+        },
+        {
+            "eid": 34,
+            "entity_name": "法定代表身份证正、反面复印件",
+            "entity_original": "法人代表身份证明",
+            "original_text": "法人代表身份证明",
+            "entity_description": []
+        },
+        {
+            "eid": 35,
+            "entity_name": "法定代表身份证正、反面复印件",
+            "entity_original": "身份证",
+            "original_text": "（供应商全称） 法定代表人 姓名（身份证号码：），参加贵方组织的项目名称（项目编号： ）的磋商活动，代表本公司处理磋商活动中的一切事宜。",
+            "entity_description": []
+        },
+        {
+            "eid": 36,
+            "entity_name": "法定代表身份证正、反面复印件",
+            "entity_original": "身份证复",
+            "original_text": "注：身份证复印件如为粘贴的，须在身份证复印件与本页接缝处加盖公章；",
+            "entity_description": [
+                "印件"
+            ]
+        },
+        {
+            "eid": 37,
+            "entity_name": "法定代表身份证正、反面复印件",
+            "entity_original": "身份证复",
+            "original_text": "注：身份证复印件如为粘贴的，须在身份证复印件与本页接缝处加盖公章；",
+            "entity_description": [
+                "印件"
+            ]
+        },
+        {
+            "eid": 38,
+            "entity_name": "商务条款偏离表",
+            "entity_original": "技术偏离表",
+            "original_text": "1. 技术偏离表",
+            "entity_description": []
+        },
+        {
+            "eid": 39,
+            "entity_name": "商务条款偏离表",
+            "entity_original": "技术偏离表",
+            "original_text": "技术偏离表",
+            "entity_description": []
+        },
+        {
+            "eid": 40,
+            "entity_name": "商务条款偏离表",
+            "entity_original": "商务偏离表",
+            "original_text": "1.商务偏离表或书面承诺满足磋商文件商务条款",
+            "entity_description": []
+        },
+        {
+            "eid": 41,
+            "entity_name": "商务条款偏离表",
+            "entity_original": "商务偏离表",
+            "original_text": "商务偏离表",
+            "entity_description": []
+        },
+        {
+            "eid": 42,
+            "entity_name": "商务条款偏离表",
+            "entity_original": "偏离表",
+            "original_text": "注：无论供应商递交的响应文件与磋商文件商务条款的要求是否有偏离，均应逐条列在商务偏离表中。",
+            "entity_description": []
+        },
+        {
+            "eid": 43,
+            "entity_name": "团队介绍",
+            "entity_original": "项目团队人员组成",
+            "original_text": "1. 项目团队人员组成（格式仅供参考，可根据具体情况进行修改）",
+            "entity_description": []
+        },
+        {
+            "eid": 44,
+            "entity_name": "执业持证人员情况表",
+            "entity_original": "人员情况表",
+            "original_text": "拟投入人员情况表",
+            "entity_description": []
+        },
+        {
+            "eid": 45,
+            "entity_name": "案例合同列表",
+            "entity_original": "情况表",
+            "original_text": "拟投入人员证件复印件（按拟投入情况表所列顺序依次排列人员证件复印件）",
+            "entity_description": []
+        },
+        {
+            "eid": 46,
+            "entity_name": "案例合同列表",
+            "entity_original": "业绩一览表",
+            "original_text": "业绩一览表",
+            "entity_description": []
+        },
+        {
+            "eid": 47,
+            "entity_name": "售后服务",
+            "entity_original": "售后及服务能",
+            "original_text": "4.售后及服务能力（不限于以下内容）",
+            "entity_description": []
+        }
+    ],
+    "relations": [
+        {
+            "type": 2,
+            "peers": [
+                20,
+                21
+            ]
+        },
+        {
+            "type": 2,
+            "peers": [
+                22,
+                23
+            ]
+        },
+        {
+            "type": 2,
+            "peers": [
+                31,
+                32
+            ]
+        },
+        {
+            "type": 2,
+            "peers": [
+                36,
+                37
+            ]
+        }
+    ]
+}
