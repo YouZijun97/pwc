@@ -1,11 +1,11 @@
 from .cos_simi import entity_find
-from .entity import Entity, json_output
-from .predict import entity_find2,outp2,outp,near_part
+from .entity import Entity, Json_output
+from .predict import outp,near_part
 from .preprocess import sentence_preprocess
 
 def para2out(paragraph):
     id = 0
-    json_out1 = json_output()
+    json_out1 = Json_output()
     for original_line in paragraph.splitlines():
 
         # 1.句子预处理
@@ -51,7 +51,8 @@ def para2out(paragraph):
             for person in person_list:
                 if near_part(entity_text, person, sentence, 1):
                     entity_text = person+entity_text
-                index = max(sentence.find(entity_text)+len(entity_text), sentence.find(person)+len(person))
+                    break
+                index = min(sentence.find(entity_text)+len(entity_text), sentence.find(person)+len(person))
                 sentence = sentence[index:]
 
             # 5.赋予实体
@@ -63,14 +64,4 @@ def para2out(paragraph):
             if i == l1-1 and len(entity.peers) > 1:
                 json_out1.set_relation(entity.get_relation())
 
-
-    # print(json_out1)
-    # 2.查找实体、实体描述
-    # Entity_list, id = outp2(preprocess_sentence, id)
-    # for i, en in enumerate(Entity_list):
-    #     json_out1.add_entity(en.entity_json())
-    #     if i == len(Entity_list) - 1 and len(en.peers) > 1:
-    #         json_out1.add_relation(en.relation_json())
-    #
-    # print(json_out1)
     return json_out1

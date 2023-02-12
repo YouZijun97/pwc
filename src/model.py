@@ -3,7 +3,8 @@ from transformers import AutoModel
 
 # 加载预训练模型
 pretrained = AutoModel.from_pretrained("hfl/rbt6")
-
+device = "cuda:0" if torch.cuda.is_available() else "cpu"  # 有没有GPU
+pretrained = pretrained.to(device)
 
 # 定义下游模型
 class Model(torch.nn.Module):

@@ -6,7 +6,6 @@ from .config import DIR
 
 warnings.filterwarnings("ignore")
 
-
 def get_word_vector(s1, s2):
     """
     :param s1: 句子1

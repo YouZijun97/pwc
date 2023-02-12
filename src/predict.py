@@ -11,7 +11,7 @@ device = "cuda:0" if torch.cuda.is_available() else "cpu"  # 有没有GPU
 
 sys.path.insert(0, str(DIR))
 model_path = DIR / "model" / "命名实体识别train9_中文106.model"
-model_load = torch.load(model_path, map_location="cpu")
+model_load = torch.load(model_path, map_location=device)
 
 model_load.eval()
 
@@ -21,6 +21,7 @@ def part_sentence_output(part_sentence):
         x = torch.tensor(value)
         x = torch.reshape(x, (1, -1))
         input_id.update({key: x})
+    input_id = input_id.to(device)
     out = model_load(input_id).argmax(dim=2)
     out = out[0]
     select = input_id["attention_mask"][0] == 1
@@ -102,10 +103,11 @@ def one_sentence2Entity(input_id2,tag,eid,original_line):
     #     if len(ch) < 2:
     #         description_list2.remove(ch)
     count = 0
+    print(entity_list)
     Entity_list = []
     for entity in entity_list:
 
-        if len(entity) < 3:
+        if len(entity) < 2:
             continue
         x = entity_find(entity)  # 查找归一化名称
         if x != {}:
@@ -121,7 +123,7 @@ def one_sentence2Entity(input_id2,tag,eid,original_line):
                 de.append(description)
         for i in range(count):
             peers.append(eid - count + 1 + i)
-        x = Entity(eid, y, entity[:-1], original_line, de, peers=peers)
+        x = Entity(eid, y, entity, original_line, de, peers=peers)
         x.show_entity()
         Entity_list.append(x)
         eid += 1

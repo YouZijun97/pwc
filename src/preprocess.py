@@ -1,5 +1,5 @@
 def sentence_preprocess(sentence):
-
+    sentence = sentence.strip()
     new_sentence = remove_signal(sentence)
     new_sentence = remove_xuhao(new_sentence)
 
